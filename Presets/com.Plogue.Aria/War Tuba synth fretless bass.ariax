@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<AriaSave version="1911" productID="1014">
+    <Settings quality="1" streaming="32" maxStreamAllocMB="512" MIDIOutMode="1" automationSlot="0" automationlevel="instrument" liveMode="0"  scala="01 - equal.scl" scalaCenter="60" globalTuning="0" />
+    <Slot id="0" name="07 - the Tubaborg synth" bankId="2511" version="1000" channel="-1" poly="64" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0"  mute="0">
+        <Main id="0" value="1" />
+        <Param id="82" value="0.371" />
+        <Param id="83" value="0" />
+        <Param id="84" value="0.114" />
+        <Param id="85" value="0.185" />
+        <Param id="86" value="0.682" />
+        <Param id="87" value="0.362" />
+        <Param id="88" value="0.564" />
+        <Param id="90" value="0.3024" />
+        <Param id="91" value="0.275" />
+        <Param id="93" value="0.575" />
+        <Param id="94" value="1" />
+        <Param id="96" value="0.53" />
+        <Param id="97" value="0.227" />
+        <Param id="98" value="0.085" />
+        <Param id="99" value="0.345" />
+        <Param id="100" value="0.54" />
+        <Param id="101" value="1" />
+        <Param id="102" value="0.215" />
+        <Param id="104" value="0.35" />
+        <Param id="106" value="0.44" />
+        <Param id="107" value="0.095" />
+        <Param id="108" value="0.277" />
+        <Param id="111" value="0.609" />
+        <Param id="114" value="0.24" />
+        <Param id="115" value="0.565" />
+        <Param id="116" value="0.435" />
+        <Param id="117" value="0.3" />
+        <Param id="118" value="0.345" />
+        <Param id="119" value="0.177" />
+        <Param id="120" value="0.42" />
+        <Param id="121" value="1" />
+
+    </Slot>
+    <EffectSlot id="0" name="Ambience" bankId="1014" version="1845" />
+    <GUI id="0" selectedTab="1" />
+</AriaSave>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Key>6B26847909561B89026A1456EF6B71535322C64A64DA1201F15DF847147B98563556F6020AFB35D1DD6A3987DF72E39B829F67E2598E9BB687C31EA6F03C02F980883555A97155483C2EE9AEF3869ADAFDD3CE34D1896E809F38AA49BFA4C94167C158695591C923EA34F218B1D6DDF088803D38DC3190E575A8BC919068251EFA035DC1B8A517DCC11CD230322F6A193F527E825A0736ACB96CCD9D9111D18AEFBD62226DF4D40FB0A5F75E627D710F78261A0786244F5762051B9A58AA46D3E0AF81BABB52DC9DC55EF1DDF01B4B824DAFC8DD7337233D48013057AB657181ECAC854C2C4997E0EEFCE94160C06C50B2B6E3ED2B5892AF7980CB4D3932022A</Key>
+<AriaBank  id="2511" name="War Tuba" vendor="Karoryfer" product="War Tuba" version="1000" >
+
+	<Define name="$sample_dir" value="../Samples"/>
+	
+	<!-- branding for Aria Player and sforzando UIs -->
+	<AriaGUI path="GUI/aria_info.xml"  target="*ARIA_INFO" />	
+ 
+	<AriaProgram  name="01 - solo tuba legato"		gui="GUI/1-solo-legato.xml">	<AriaElement  path="Programs/1-solo-legato.sfz"/>	</AriaProgram>
+	<AriaProgram  name="02 - solo tuba polyphonic"	gui="GUI/2-solo-poly.xml">		<AriaElement  path="Programs/2-solo-poly.sfz"/>		</AriaProgram>
+	<AriaProgram  name="03 - tuba duo legato"		gui="GUI/3-duo-legato.xml">		<AriaElement  path="Programs/3-duo-legato.sfz"/>	</AriaProgram>
+	<AriaProgram  name="04 - tuba duo polyphonic"	gui="GUI/4-duo-poly.xml">		<AriaElement  path="Programs/4-duo-poly.sfz"/>		</AriaProgram>
+	<AriaProgram  name="05 - tuba trio legato"		gui="GUI/5-trio-legato.xml">	<AriaElement  path="Programs/5-trio-legato.sfz"/>	</AriaProgram>
+	<AriaProgram  name="06 - tuba trio polyphonic"	gui="GUI/6-trio-poly.xml">		<AriaElement  path="Programs/6-trio-poly.sfz"/>		</AriaProgram>
+	<AriaProgram  name="07 - the Tubaborg synth"	gui="GUI/7-tubaborg.xml">		<AriaElement  path="Programs/7-tubaborg.sfz"/>		</AriaProgram>
+
+</AriaBank>

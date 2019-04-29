@@ -1,0 +1,76 @@
+<control>
+set_cc1=63
+set_cc7=100
+set_cc10=63
+set_cc69=0
+set_cc71=40
+set_cc72=127
+set_cc73=0
+set_cc74=20
+set_cc75=0
+set_cc112=31
+set_cc115=50
+label_cc1=Sus dynamics
+label_cc7=Volume
+label_cc10=Master pan
+label_cc69=Attack
+label_cc71=Release
+label_cc72=Cond Vol
+label_cc73=Dyn Vol
+label_cc74=Dyn Cutoff
+label_cc75=Fakeness
+label_cc111=Vibrato to pitch
+label_cc112=Vibrato speed
+label_cc114=Vibrato to EQ
+label_cc115=Vibrato delay
+label_cc116=Vibrato fade
+label_cc117=Unsteadiness
+
+<global>
+ampeg_attack=0.001
+ampeg_attack_oncc69=0.1
+ampeg_release_oncc71=0.4
+offset_oncc75=3000
+off_mode=normal
+sw_lokey=24
+sw_hikey=26
+sw_default=25
+amplitude_oncc7=100
+pan=-100
+pan_oncc10=200
+
+//Vibrato and humanization setup
+lfo01_pitch_oncc111=22 //Vibrato LFO
+lfo01_freq=1.4 //Any slower than this sounds really lousy
+lfo01_freq_oncc112=3.6 //faster is just silly
+lfo01_delay_oncc115=0.500
+lfo01_fade_oncc116=0.500
+eq1_freq=1000 //Also can send this LFO to EQ, to change both tone and pitch
+eq1_bw=3
+lfo01_eq1gain_oncc114=4 //Don't want this to sound too synthetic, so max amount is small
+lfo01_eq1freq_oncc114=800
+
+lfo02_wave=1 //Second LFO to make things wobblier
+lfo02_phase=0
+lfo02_phase_oncc131=0.7 //Phase affected by velocity, to pseudo-randomize while keeping both mics' LFOs in sync
+lfo02_freq=0.01 //Basically no movement at very slow speeds, just randomization
+lfo02_freq_oncc117=1 //Max rate is not very high, so it doesn't sound too obvious
+lfo02_pitch_oncc117=6 //Slight pitch wobbliness
+lfo02_freq_lfo01_oncc117=3 //Affect the rate of the other LFO for unsteady vibrato
+
+lfo03_wave=1 //And a third LFO for secondhand complex wobbliness
+lfo03_phase=0.4
+lfo03_phase_oncc131=0.179 //Different phase response to velocity than the second LFO
+lfo03_freq=0.5
+lfo03_freq_oncc117=-0.4
+lfo03_freq_lfo2_oncc117=1
+lfo03_pitch_oncc117=-4
+
+#include "poly/staccatissimo_cnd.sfz"
+#include "poly/staccatissimo_dyn.sfz"
+#include "poly/staccato_cnd.sfz"
+#include "poly/staccato_dyn.sfz"
+#include "poly/sustain_cnd.sfz"
+#include "poly/sustain_dyn.sfz"
+#include "poly/fx_cnd.sfz"
+#include "poly/fx_dyn.sfz"

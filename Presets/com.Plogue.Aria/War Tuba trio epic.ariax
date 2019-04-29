@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<AriaSave version="1911" productID="1014">
+    <Settings quality="1" streaming="32" maxStreamAllocMB="512" MIDIOutMode="1" automationSlot="0" automationlevel="instrument" liveMode="0" scala="01 - equal.scl" scalaCenter="60" globalTuning="0" />
+    <Slot id="0" name="05 - tuba trio legato" bankId="2511" version="1000" channel="-1" poly="64" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" mute="0" sw_last="25">
+        <Main id="0" value="1" />
+        <Param id="1" value="0.51" />
+        <Param id="73" value="0" />
+        <Param id="74" value="1" />
+        <Param id="80" value="0.185" />
+        <Param id="81" value="1" />
+        <Param id="112" value="0.76" />
+        <Param id="115" value="0.15" />
+        <Param id="117" value="0.085" />
+    </Slot>
+    <EffectSlot id="0" name="Ambience" bankId="1014" version="1845" />
+    <GUI id="0" selectedTab="1" />
+</AriaSave>

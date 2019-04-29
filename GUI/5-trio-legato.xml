@@ -1,0 +1,85 @@
+<GUI w="775" h="335">
+ 
+	<!-- Background -->
+
+	<StaticImage x="1" y="1" w="773" h="333" image="war_tuba_control_tab_5.png" transparent="0"  />
+	
+	<!-- Controls - Mix first-->
+	
+	<StaticText x="309" y="10" w="100" h="20" text="MIX" color_text="#000000FF" transparent="1"  />
+
+	<StaticText x="309" y="27" w="100" h="18" text="Cond Mic" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="72" x="342" y="50" image="smallish_sepia.png" frames="128"  />
+
+	<StaticText x="369" y="27" w="100" h="18" text="Dyn Mic" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="73" x="402" y="50" image="smallish_sepia.png" frames="128"  />
+
+	<StaticText x="429" y="27" w="100" h="18" text="Dyn Cutoff" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="74" x="462" y="50" image="smallish_sepia.png" frames="128"  />
+
+	<!-- Controls - Envelope-->
+
+	<StaticText x="549" y="10" w="100" h="20" text="ENVELOPE" color_text="#000000FF" transparent="1"  />
+
+	<StaticText x="549" y="27" w="100" h="18" text="Attack" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="69" x="582" y="50" image="smallish_sepia.png" frames="128"  />
+
+	<StaticText x="609" y="27" w="100" h="18" text="Legato Attack" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="70" x="642" y="50" image="smallish_sepia.png" frames="128"  />
+
+	<StaticText x="669" y="27" w="100" h="18" text="Release" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="71" x="702" y="50" image="smallish_sepia.png" frames="128"  />
+
+	<!-- Controls - Vibrato on row two-->
+	
+	<StaticText x="309" y="100" w="100" h="20" text="VIBRATO" color_text="#000000FF" transparent="1"  />
+
+	<StaticText x="309" y="117" w="100" h="18" text="Rate" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="112" x="342" y="140" image="smallish_sepia.png" frames="128"  />
+
+	<StaticText x="369" y="117" w="100" h="18" text="To Pitch" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="111" x="402" y="140" image="smallish_sepia.png" frames="128"  />
+
+	<StaticText x="429" y="117" w="100" h="18" text="To EQ" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="114" x="462" y="140" image="smallish_sepia.png" frames="128"  />
+
+	<StaticText x="489" y="117" w="100" h="18" text="Delay" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="115" x="522" y="140" image="smallish_sepia.png" frames="128"  />
+
+	<StaticText x="549" y="117" w="100" h="18" text="Fade In" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="116" x="582" y="140" image="smallish_sepia.png" frames="128"  />
+
+	<StaticText x="609" y="117" w="100" h="18" text="Humanize" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="117" x="642" y="140" image="smallish_sepia.png" frames="128"  />
+
+	<!-- Controls - Ensemble at the end-->
+	
+	<StaticText x="489" y="190" w="100" h="20" text="ENSEMBLE" color_text="#000000FF" transparent="1"  />
+
+	<StaticText x="489" y="207" w="100" h="18" text="Width" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="81" x="522" y="230" image="smallish_sepia.png" frames="128"  />
+
+	<StaticText x="549" y="207" w="100" h="18" text="Detune" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="80" x="582" y="230" image="smallish_sepia.png" frames="128"  />
+
+	<StaticText x="659" y="190" w="120" h="20" text="SUS DYNAMICS" color_text="#000000FF" transparent="1"  />
+
+	<StaticText x="669" y="207" w="100" h="18" text="Mod Wheel (CC1)" color_text="#000000FF" transparent="1"   />
+	
+	<Knob param="1" x="702" y="230" image="smallish_sepia.png" frames="128"  />
+
+</GUI>                                                                                                                                       
