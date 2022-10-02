@@ -10,7 +10,7 @@ locc90=1
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\gb0_sc.wav
+sample=..\Samples\gb0_sc.flac
 lokey=24
 hikey=29
 trigger=legato
@@ -19,7 +19,7 @@ tune_oncc92=-8
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\gb0_sc.wav
+sample=..\Samples\gb0_sc.flac
 lokey=24
 hikey=29
 trigger=first
@@ -27,7 +27,7 @@ pitch_keycenter=30
 tune_oncc92=-8
 
 <region>
-sample=..\Samples\g0_sc.wav
+sample=..\Samples\g0_sc.flac
 lokey=30
 hikey=30
 trigger=legato
@@ -36,7 +36,7 @@ tune_oncc92=-9
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\g0_sc.wav
+sample=..\Samples\g0_sc.flac
 lokey=30
 hikey=30
 trigger=first
@@ -44,7 +44,7 @@ pitch_keycenter=31
 tune_oncc92=-9
 
 <region>
-sample=..\Samples\ab0_sc.wav
+sample=..\Samples\ab0_sc.flac
 lokey=31
 hikey=31
 trigger=legato
@@ -53,7 +53,7 @@ tune_oncc92=-9
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\ab0_sc.wav
+sample=..\Samples\ab0_sc.flac
 lokey=31
 hikey=31
 trigger=first
@@ -61,7 +61,7 @@ pitch_keycenter=32
 tune_oncc92=-9
 
 <region>
-sample=..\Samples\a0_sc.wav
+sample=..\Samples\a0_sc.flac
 lokey=32
 hikey=32
 trigger=legato
@@ -70,7 +70,7 @@ tune_oncc92=-10
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\a0_sc.wav
+sample=..\Samples\a0_sc.flac
 lokey=32
 hikey=32
 trigger=first
@@ -78,7 +78,7 @@ pitch_keycenter=33
 tune_oncc92=-10
 
 <region>
-sample=..\Samples\bb0_sc.wav
+sample=..\Samples\bb0_sc.flac
 lokey=33
 hikey=33
 trigger=legato
@@ -87,7 +87,7 @@ tune_oncc92=-10
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\bb0_sc.wav
+sample=..\Samples\bb0_sc.flac
 lokey=33
 hikey=33
 trigger=first
@@ -95,7 +95,7 @@ pitch_keycenter=34
 tune_oncc92=-10
 
 <region>
-sample=..\Samples\b0_sc.wav
+sample=..\Samples\b0_sc.flac
 lokey=34
 hikey=34
 trigger=legato
@@ -104,7 +104,7 @@ tune_oncc92=-11
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\b0_sc.wav
+sample=..\Samples\b0_sc.flac
 lokey=34
 hikey=34
 trigger=first
@@ -112,7 +112,7 @@ pitch_keycenter=35
 tune_oncc92=-11
 
 <region>
-sample=..\Samples\c1_sc.wav
+sample=..\Samples\c1_sc.flac
 lokey=35
 hikey=35
 trigger=legato
@@ -121,7 +121,7 @@ tune_oncc92=-12
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\c1_sc.wav
+sample=..\Samples\c1_sc.flac
 lokey=35
 hikey=35
 trigger=first
@@ -129,7 +129,7 @@ pitch_keycenter=36
 tune_oncc92=-12
 
 <region>
-sample=..\Samples\db1_sc.wav
+sample=..\Samples\db1_sc.flac
 lokey=36
 hikey=36
 trigger=legato
@@ -138,7 +138,7 @@ tune_oncc92=-12
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\db1_sc.wav
+sample=..\Samples\db1_sc.flac
 lokey=36
 hikey=36
 trigger=first
@@ -146,7 +146,7 @@ pitch_keycenter=37
 tune_oncc92=-12
 
 <region>
-sample=..\Samples\d1_sc.wav
+sample=..\Samples\d1_sc.flac
 lokey=37
 hikey=37
 trigger=legato
@@ -155,7 +155,7 @@ tune_oncc92=-12
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\d1_sc.wav
+sample=..\Samples\d1_sc.flac
 lokey=37
 hikey=37
 trigger=first
@@ -163,7 +163,7 @@ pitch_keycenter=38
 tune_oncc92=-12
 
 <region>
-sample=..\Samples\eb1_sc.wav
+sample=..\Samples\eb1_sc.flac
 lokey=38
 hikey=38
 trigger=legato
@@ -172,7 +172,7 @@ tune_oncc92=-13
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\eb1_sc.wav
+sample=..\Samples\eb1_sc.flac
 lokey=38
 hikey=38
 trigger=first
@@ -180,7 +180,7 @@ pitch_keycenter=39
 tune_oncc92=-13
 
 <region>
-sample=..\Samples\e1_sc.wav
+sample=..\Samples\e1_sc.flac
 lokey=39
 hikey=39
 trigger=legato
@@ -189,7 +189,7 @@ tune_oncc92=-13
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\e1_sc.wav
+sample=..\Samples\e1_sc.flac
 lokey=39
 hikey=39
 trigger=first
@@ -197,7 +197,7 @@ pitch_keycenter=40
 tune_oncc92=-13
 
 <region>
-sample=..\Samples\f1_sc.wav
+sample=..\Samples\f1_sc.flac
 lokey=40
 hikey=40
 trigger=legato
@@ -206,7 +206,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\f1_sc.wav
+sample=..\Samples\f1_sc.flac
 lokey=40
 hikey=40
 trigger=first
@@ -214,7 +214,7 @@ pitch_keycenter=41
 tune_oncc92=-14
 
 <region>
-sample=..\Samples\gb1_sc.wav
+sample=..\Samples\gb1_sc.flac
 lokey=41
 hikey=41
 trigger=legato
@@ -223,7 +223,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\gb1_sc.wav
+sample=..\Samples\gb1_sc.flac
 lokey=41
 hikey=41
 trigger=first
@@ -231,7 +231,7 @@ pitch_keycenter=42
 tune_oncc92=-14
 
 <region>
-sample=..\Samples\g1_sc.wav
+sample=..\Samples\g1_sc.flac
 lokey=42
 hikey=42
 trigger=legato
@@ -240,7 +240,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\g1_sc.wav
+sample=..\Samples\g1_sc.flac
 lokey=42
 hikey=42
 trigger=first
@@ -248,7 +248,7 @@ pitch_keycenter=43
 tune_oncc92=-14
 
 <region>
-sample=..\Samples\ab1_sc.wav
+sample=..\Samples\ab1_sc.flac
 lokey=43
 hikey=43
 trigger=legato
@@ -257,7 +257,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\ab1_sc.wav
+sample=..\Samples\ab1_sc.flac
 lokey=43
 hikey=43
 trigger=first
@@ -265,7 +265,7 @@ pitch_keycenter=44
 tune_oncc92=-14
 
 <region>
-sample=..\Samples\a1_sc.wav
+sample=..\Samples\a1_sc.flac
 lokey=44
 hikey=44
 trigger=legato
@@ -274,7 +274,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\a1_sc.wav
+sample=..\Samples\a1_sc.flac
 lokey=44
 hikey=44
 trigger=first
@@ -282,7 +282,7 @@ pitch_keycenter=45
 tune_oncc92=-14
 
 <region>
-sample=..\Samples\bb1_sc.wav
+sample=..\Samples\bb1_sc.flac
 lokey=45
 hikey=45
 trigger=legato
@@ -291,7 +291,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\bb1_sc.wav
+sample=..\Samples\bb1_sc.flac
 lokey=45
 hikey=45
 trigger=first
@@ -299,7 +299,7 @@ pitch_keycenter=46
 tune_oncc92=-14
 
 <region>
-sample=..\Samples\b1_sc.wav
+sample=..\Samples\b1_sc.flac
 lokey=46
 hikey=46
 trigger=legato
@@ -308,7 +308,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\b1_sc.wav
+sample=..\Samples\b1_sc.flac
 lokey=46
 hikey=46
 trigger=first
@@ -316,7 +316,7 @@ pitch_keycenter=47
 tune_oncc92=-14
 
 <region>
-sample=..\Samples\c2_sc.wav
+sample=..\Samples\c2_sc.flac
 lokey=47
 hikey=47
 trigger=legato
@@ -325,7 +325,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\c2_sc.wav
+sample=..\Samples\c2_sc.flac
 lokey=47
 hikey=47
 trigger=first
@@ -333,7 +333,7 @@ pitch_keycenter=48
 tune_oncc92=-14
 
 <region>
-sample=..\Samples\db2_sc.wav
+sample=..\Samples\db2_sc.flac
 lokey=48
 hikey=48
 trigger=legato
@@ -342,7 +342,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\db2_sc.wav
+sample=..\Samples\db2_sc.flac
 lokey=48
 hikey=48
 trigger=first
@@ -350,7 +350,7 @@ pitch_keycenter=49
 tune_oncc92=-14
 
 <region>
-sample=..\Samples\d2_sc.wav
+sample=..\Samples\d2_sc.flac
 lokey=49
 hikey=49
 trigger=legato
@@ -359,7 +359,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\d2_sc.wav
+sample=..\Samples\d2_sc.flac
 lokey=49
 hikey=49
 trigger=first
@@ -367,7 +367,7 @@ pitch_keycenter=50
 tune_oncc92=-14
 
 <region>
-sample=..\Samples\eb2_sc.wav
+sample=..\Samples\eb2_sc.flac
 lokey=50
 hikey=50
 trigger=legato
@@ -376,7 +376,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\eb2_sc.wav
+sample=..\Samples\eb2_sc.flac
 lokey=50
 hikey=50
 trigger=first
@@ -384,7 +384,7 @@ pitch_keycenter=51
 tune_oncc92=-14
 
 <region>
-sample=..\Samples\e2_sc.wav
+sample=..\Samples\e2_sc.flac
 lokey=51
 hikey=51
 trigger=legato
@@ -393,7 +393,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\e2_sc.wav
+sample=..\Samples\e2_sc.flac
 lokey=51
 hikey=51
 trigger=first
@@ -401,7 +401,7 @@ pitch_keycenter=52
 tune_oncc92=-14
 
 <region>
-sample=..\Samples\f2_sc.wav
+sample=..\Samples\f2_sc.flac
 lokey=52
 hikey=52
 trigger=legato
@@ -410,7 +410,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\f2_sc.wav
+sample=..\Samples\f2_sc.flac
 lokey=52
 hikey=52
 trigger=first
@@ -418,7 +418,7 @@ pitch_keycenter=53
 tune_oncc92=-14
 
 <region>
-sample=..\Samples\gb2_sc.wav
+sample=..\Samples\gb2_sc.flac
 lokey=53
 hikey=60
 trigger=legato
@@ -427,7 +427,7 @@ tune_oncc92=-14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\gb2_sc.wav
+sample=..\Samples\gb2_sc.flac
 lokey=53
 hikey=60
 trigger=first
@@ -446,7 +446,7 @@ locc90=1
 pan_oncc95=100
 
 <region>
-sample=..\Samples\g0_sc.wav
+sample=..\Samples\g0_sc.flac
 lokey=24
 hikey=29
 trigger=legato
@@ -455,7 +455,7 @@ tune_oncc92=8
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\g0_sc.wav
+sample=..\Samples\g0_sc.flac
 lokey=24
 hikey=29
 trigger=first
@@ -463,7 +463,7 @@ pitch_keycenter=31
 tune_oncc92=8
 
 <region>
-sample=..\Samples\ab0_sc.wav
+sample=..\Samples\ab0_sc.flac
 lokey=30
 hikey=30
 trigger=legato
@@ -472,7 +472,7 @@ tune_oncc92=9
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\ab0_sc.wav
+sample=..\Samples\ab0_sc.flac
 lokey=30
 hikey=30
 trigger=first
@@ -480,7 +480,7 @@ pitch_keycenter=32
 tune_oncc92=9
 
 <region>
-sample=..\Samples\a0_sc.wav
+sample=..\Samples\a0_sc.flac
 lokey=31
 hikey=31
 trigger=legato
@@ -489,7 +489,7 @@ tune_oncc92=9
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\a0_sc.wav
+sample=..\Samples\a0_sc.flac
 lokey=31
 hikey=31
 trigger=first
@@ -497,7 +497,7 @@ pitch_keycenter=33
 tune_oncc92=9
 
 <region>
-sample=..\Samples\bb0_sc.wav
+sample=..\Samples\bb0_sc.flac
 lokey=32
 hikey=32
 trigger=legato
@@ -506,7 +506,7 @@ tune_oncc92=10
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\bb0_sc.wav
+sample=..\Samples\bb0_sc.flac
 lokey=32
 hikey=32
 trigger=first
@@ -514,7 +514,7 @@ pitch_keycenter=34
 tune_oncc92=10
 
 <region>
-sample=..\Samples\b0_sc.wav
+sample=..\Samples\b0_sc.flac
 lokey=33
 hikey=33
 trigger=legato
@@ -523,7 +523,7 @@ tune_oncc92=10
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\b0_sc.wav
+sample=..\Samples\b0_sc.flac
 lokey=33
 hikey=33
 trigger=first
@@ -531,7 +531,7 @@ pitch_keycenter=35
 tune_oncc92=10
 
 <region>
-sample=..\Samples\c1_sc.wav
+sample=..\Samples\c1_sc.flac
 lokey=34
 hikey=34
 trigger=legato
@@ -540,7 +540,7 @@ tune_oncc92=11
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\c1_sc.wav
+sample=..\Samples\c1_sc.flac
 lokey=34
 hikey=34
 trigger=first
@@ -548,7 +548,7 @@ pitch_keycenter=36
 tune_oncc92=11
 
 <region>
-sample=..\Samples\db1_sc.wav
+sample=..\Samples\db1_sc.flac
 lokey=35
 hikey=35
 trigger=legato
@@ -557,7 +557,7 @@ tune_oncc92=12
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\db1_sc.wav
+sample=..\Samples\db1_sc.flac
 lokey=35
 hikey=35
 trigger=first
@@ -565,7 +565,7 @@ pitch_keycenter=37
 tune_oncc92=12
 
 <region>
-sample=..\Samples\d1_sc.wav
+sample=..\Samples\d1_sc.flac
 lokey=36
 hikey=36
 trigger=legato
@@ -574,7 +574,7 @@ tune_oncc92=12
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\d1_sc.wav
+sample=..\Samples\d1_sc.flac
 lokey=36
 hikey=36
 trigger=first
@@ -582,7 +582,7 @@ pitch_keycenter=38
 tune_oncc92=12
 
 <region>
-sample=..\Samples\eb1_sc.wav
+sample=..\Samples\eb1_sc.flac
 lokey=37
 hikey=37
 trigger=legato
@@ -591,7 +591,7 @@ tune_oncc92=12
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\eb1_sc.wav
+sample=..\Samples\eb1_sc.flac
 lokey=37
 hikey=37
 trigger=first
@@ -599,7 +599,7 @@ pitch_keycenter=39
 tune_oncc92=12
 
 <region>
-sample=..\Samples\e1_sc.wav
+sample=..\Samples\e1_sc.flac
 lokey=38
 hikey=38
 trigger=legato
@@ -608,7 +608,7 @@ tune_oncc92=13
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\e1_sc.wav
+sample=..\Samples\e1_sc.flac
 lokey=38
 hikey=38
 trigger=first
@@ -616,7 +616,7 @@ pitch_keycenter=40
 tune_oncc92=13
 
 <region>
-sample=..\Samples\f1_sc.wav
+sample=..\Samples\f1_sc.flac
 lokey=39
 hikey=39
 trigger=legato
@@ -625,7 +625,7 @@ tune_oncc92=13
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\f1_sc.wav
+sample=..\Samples\f1_sc.flac
 lokey=39
 hikey=39
 trigger=first
@@ -633,7 +633,7 @@ pitch_keycenter=41
 tune_oncc92=13
 
 <region>
-sample=..\Samples\gb1_sc.wav
+sample=..\Samples\gb1_sc.flac
 lokey=40
 hikey=40
 trigger=legato
@@ -642,7 +642,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\gb1_sc.wav
+sample=..\Samples\gb1_sc.flac
 lokey=40
 hikey=40
 trigger=first
@@ -650,7 +650,7 @@ pitch_keycenter=42
 tune_oncc92=14
 
 <region>
-sample=..\Samples\g1_sc.wav
+sample=..\Samples\g1_sc.flac
 lokey=41
 hikey=41
 trigger=legato
@@ -659,7 +659,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\g1_sc.wav
+sample=..\Samples\g1_sc.flac
 lokey=41
 hikey=41
 trigger=first
@@ -667,7 +667,7 @@ pitch_keycenter=43
 tune_oncc92=14
 
 <region>
-sample=..\Samples\ab1_sc.wav
+sample=..\Samples\ab1_sc.flac
 lokey=42
 hikey=42
 trigger=legato
@@ -676,7 +676,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\ab1_sc.wav
+sample=..\Samples\ab1_sc.flac
 lokey=42
 hikey=42
 trigger=first
@@ -684,7 +684,7 @@ pitch_keycenter=44
 tune_oncc92=14
 
 <region>
-sample=..\Samples\a1_sc.wav
+sample=..\Samples\a1_sc.flac
 lokey=43
 hikey=43
 trigger=legato
@@ -693,7 +693,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\a1_sc.wav
+sample=..\Samples\a1_sc.flac
 lokey=43
 hikey=43
 trigger=first
@@ -701,7 +701,7 @@ pitch_keycenter=45
 tune_oncc92=14
 
 <region>
-sample=..\Samples\bb1_sc.wav
+sample=..\Samples\bb1_sc.flac
 lokey=44
 hikey=44
 trigger=legato
@@ -710,7 +710,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\bb1_sc.wav
+sample=..\Samples\bb1_sc.flac
 lokey=44
 hikey=44
 trigger=first
@@ -718,7 +718,7 @@ pitch_keycenter=46
 tune_oncc92=14
 
 <region>
-sample=..\Samples\b1_sc.wav
+sample=..\Samples\b1_sc.flac
 lokey=45
 hikey=45
 trigger=legato
@@ -727,7 +727,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\b1_sc.wav
+sample=..\Samples\b1_sc.flac
 lokey=45
 hikey=45
 trigger=first
@@ -735,7 +735,7 @@ pitch_keycenter=47
 tune_oncc92=14
 
 <region>
-sample=..\Samples\c2_sc.wav
+sample=..\Samples\c2_sc.flac
 lokey=46
 hikey=46
 trigger=legato
@@ -744,7 +744,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\c2_sc.wav
+sample=..\Samples\c2_sc.flac
 lokey=46
 hikey=46
 trigger=first
@@ -752,7 +752,7 @@ pitch_keycenter=48
 tune_oncc92=14
 
 <region>
-sample=..\Samples\db2_sc.wav
+sample=..\Samples\db2_sc.flac
 lokey=47
 hikey=47
 trigger=legato
@@ -761,7 +761,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\db2_sc.wav
+sample=..\Samples\db2_sc.flac
 lokey=47
 hikey=47
 trigger=first
@@ -769,7 +769,7 @@ pitch_keycenter=49
 tune_oncc92=14
 
 <region>
-sample=..\Samples\d2_sc.wav
+sample=..\Samples\d2_sc.flac
 lokey=48
 hikey=48
 trigger=legato
@@ -778,7 +778,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\d2_sc.wav
+sample=..\Samples\d2_sc.flac
 lokey=48
 hikey=48
 trigger=first
@@ -786,7 +786,7 @@ pitch_keycenter=50
 tune_oncc92=14
 
 <region>
-sample=..\Samples\eb2_sc.wav
+sample=..\Samples\eb2_sc.flac
 lokey=49
 hikey=49
 trigger=legato
@@ -795,7 +795,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\eb2_sc.wav
+sample=..\Samples\eb2_sc.flac
 lokey=49
 hikey=49
 trigger=first
@@ -803,7 +803,7 @@ pitch_keycenter=51
 tune_oncc92=14
 
 <region>
-sample=..\Samples\e2_sc.wav
+sample=..\Samples\e2_sc.flac
 lokey=50
 hikey=50
 trigger=legato
@@ -812,7 +812,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\e2_sc.wav
+sample=..\Samples\e2_sc.flac
 lokey=50
 hikey=50
 trigger=first
@@ -820,7 +820,7 @@ pitch_keycenter=52
 tune_oncc92=14
 
 <region>
-sample=..\Samples\f2_sc.wav
+sample=..\Samples\f2_sc.flac
 lokey=51
 hikey=51
 trigger=legato
@@ -829,7 +829,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\f2_sc.wav
+sample=..\Samples\f2_sc.flac
 lokey=51
 hikey=51
 trigger=first
@@ -837,7 +837,7 @@ pitch_keycenter=53
 tune_oncc92=14
 
 <region>
-sample=..\Samples\gb2_sc.wav
+sample=..\Samples\gb2_sc.flac
 lokey=52
 hikey=52
 trigger=legato
@@ -846,7 +846,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\gb2_sc.wav
+sample=..\Samples\gb2_sc.flac
 lokey=52
 hikey=52
 trigger=first
@@ -854,7 +854,7 @@ pitch_keycenter=54
 tune_oncc92=14
 
 <region>
-sample=..\Samples\g2_sc.wav
+sample=..\Samples\g2_sc.flac
 lokey=53
 hikey=60
 trigger=legato
@@ -863,7 +863,7 @@ tune_oncc92=14
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\g2_sc.wav
+sample=..\Samples\g2_sc.flac
 lokey=53
 hikey=60
 trigger=first

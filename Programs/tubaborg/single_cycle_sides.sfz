@@ -6,7 +6,7 @@ locc90=1
 hicc121=63
 
 <region>
-sample=..\Samples\gb0_sc.wav
+sample=..\Samples\gb0_sc.flac
 lokey=24
 hikey=29
 offset_random=2346
@@ -15,7 +15,7 @@ tune_oncc92=-8
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\g0_sc.wav
+sample=..\Samples\g0_sc.flac
 lokey=24
 hikey=29
 offset_random=3542
@@ -24,7 +24,7 @@ tune_oncc92=8
 pan_oncc95=100
 
 <region>
-sample=..\Samples\g0_sc.wav
+sample=..\Samples\g0_sc.flac
 lokey=30
 hikey=30
 offset_random=4326
@@ -33,7 +33,7 @@ tune_oncc92=-9
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\ab0_sc.wav
+sample=..\Samples\ab0_sc.flac
 lokey=30
 hikey=30
 offset_random=6782
@@ -42,7 +42,7 @@ tune_oncc92=9
 pan_oncc95=100
 
 <region>
-sample=..\Samples\ab0_sc.wav
+sample=..\Samples\ab0_sc.flac
 lokey=31
 hikey=31
 offset_random=6235
@@ -51,7 +51,7 @@ tune_oncc92=-9
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\a0_sc.wav
+sample=..\Samples\a0_sc.flac
 lokey=31
 hikey=31
 offset_random=6574
@@ -60,7 +60,7 @@ tune_oncc92=9
 pan_oncc95=100
 
 <region>
-sample=..\Samples\a0_sc.wav
+sample=..\Samples\a0_sc.flac
 lokey=32
 hikey=32
 offset_random=2345
@@ -69,7 +69,7 @@ tune_oncc92=-10
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\bb0_sc.wav
+sample=..\Samples\bb0_sc.flac
 lokey=32
 hikey=32
 offset_random=5746
@@ -78,7 +78,7 @@ tune_oncc92=10
 pan_oncc95=100
 
 <region>
-sample=..\Samples\bb0_sc.wav
+sample=..\Samples\bb0_sc.flac
 lokey=33
 hikey=33
 offset_random=3254
@@ -87,7 +87,7 @@ tune_oncc92=-10
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\b0_sc.wav
+sample=..\Samples\b0_sc.flac
 lokey=33
 hikey=33
 offset_random=7564
@@ -96,7 +96,7 @@ tune_oncc92=10
 pan_oncc95=100
 
 <region>
-sample=..\Samples\b0_sc.wav
+sample=..\Samples\b0_sc.flac
 lokey=34
 hikey=34
 offset_random=1432
@@ -105,7 +105,7 @@ tune_oncc92=-11
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\c1_sc.wav
+sample=..\Samples\c1_sc.flac
 lokey=34
 hikey=34
 offset_random=4356
@@ -114,7 +114,7 @@ tune_oncc92=11
 pan_oncc95=100
 
 <region>
-sample=..\Samples\c1_sc.wav
+sample=..\Samples\c1_sc.flac
 lokey=35
 hikey=35
 offset_random=4563
@@ -123,7 +123,7 @@ tune_oncc92=-12
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\db1_sc.wav
+sample=..\Samples\db1_sc.flac
 lokey=35
 hikey=35
 offset_random=1432
@@ -132,7 +132,7 @@ tune_oncc92=12
 pan_oncc95=100
 
 <region>
-sample=..\Samples\db1_sc.wav
+sample=..\Samples\db1_sc.flac
 lokey=36
 hikey=36
 offset_random=7654
@@ -141,7 +141,7 @@ tune_oncc92=-12
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\d1_sc.wav
+sample=..\Samples\d1_sc.flac
 lokey=36
 hikey=36
 offset_random=2436
@@ -150,7 +150,7 @@ tune_oncc92=12
 pan_oncc95=100
 
 <region>
-sample=..\Samples\d1_sc.wav
+sample=..\Samples\d1_sc.flac
 lokey=37
 hikey=37
 offset_random=5462
@@ -159,7 +159,7 @@ tune_oncc92=-12
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\eb1_sc.wav
+sample=..\Samples\eb1_sc.flac
 lokey=37
 hikey=37
 offset_random=1324
@@ -168,7 +168,7 @@ tune_oncc92=12
 pan_oncc95=100
 
 <region>
-sample=..\Samples\eb1_sc.wav
+sample=..\Samples\eb1_sc.flac
 lokey=38
 hikey=38
 offset_random=5762
@@ -177,7 +177,7 @@ tune_oncc92=-13
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\e1_sc.wav
+sample=..\Samples\e1_sc.flac
 lokey=38
 hikey=38
 offset_random=9678
@@ -186,7 +186,7 @@ tune_oncc92=13
 pan_oncc95=100
 
 <region>
-sample=..\Samples\e1_sc.wav
+sample=..\Samples\e1_sc.flac
 lokey=39
 hikey=39
 offset_random=3254
@@ -195,7 +195,7 @@ tune_oncc92=-13
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\f1_sc.wav
+sample=..\Samples\f1_sc.flac
 lokey=39
 hikey=39
 offset_random=1423
@@ -204,7 +204,7 @@ tune_oncc92=13
 pan_oncc95=100
 
 <region>
-sample=..\Samples\f1_sc.wav
+sample=..\Samples\f1_sc.flac
 lokey=40
 hikey=40
 offset_random=6543
@@ -213,7 +213,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\gb1_sc.wav
+sample=..\Samples\gb1_sc.flac
 lokey=40
 hikey=40
 offset_random=4756
@@ -222,7 +222,7 @@ tune_oncc92=14
 pan_oncc95=100
 
 <region>
-sample=..\Samples\gb1_sc.wav
+sample=..\Samples\gb1_sc.flac
 lokey=41
 hikey=41
 offset_random=5243
@@ -231,7 +231,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\g1_sc.wav
+sample=..\Samples\g1_sc.flac
 lokey=41
 hikey=41
 offset_random=3474
@@ -240,7 +240,7 @@ tune_oncc92=14
 pan_oncc95=100
 
 <region>
-sample=..\Samples\g1_sc.wav
+sample=..\Samples\g1_sc.flac
 lokey=42
 hikey=42
 offset_random=6345
@@ -249,7 +249,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\ab1_sc.wav
+sample=..\Samples\ab1_sc.flac
 lokey=42
 hikey=42
 offset_random=3645
@@ -258,7 +258,7 @@ tune_oncc92=14
 pan_oncc95=100
 
 <region>
-sample=..\Samples\ab1_sc.wav
+sample=..\Samples\ab1_sc.flac
 lokey=43
 hikey=43
 offset_random=5647
@@ -267,7 +267,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\a1_sc.wav
+sample=..\Samples\a1_sc.flac
 lokey=43
 hikey=43
 offset_random=3426
@@ -276,7 +276,7 @@ tune_oncc92=14
 pan_oncc95=100
 
 <region>
-sample=..\Samples\a1_sc.wav
+sample=..\Samples\a1_sc.flac
 lokey=44
 hikey=44
 offset_random=8764
@@ -285,7 +285,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\bb1_sc.wav
+sample=..\Samples\bb1_sc.flac
 lokey=44
 hikey=44
 offset_random=4756
@@ -294,7 +294,7 @@ tune_oncc92=14
 pan_oncc95=100
 
 <region>
-sample=..\Samples\bb1_sc.wav
+sample=..\Samples\bb1_sc.flac
 lokey=45
 hikey=45
 offset_random=5342
@@ -303,7 +303,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\b1_sc.wav
+sample=..\Samples\b1_sc.flac
 lokey=45
 hikey=45
 offset_random=4576
@@ -312,7 +312,7 @@ tune_oncc92=14
 pan_oncc95=100
 
 <region>
-sample=..\Samples\b1_sc.wav
+sample=..\Samples\b1_sc.flac
 lokey=46
 hikey=46
 offset_random=5342
@@ -321,7 +321,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\c2_sc.wav
+sample=..\Samples\c2_sc.flac
 lokey=46
 hikey=46
 offset_random=7543
@@ -330,7 +330,7 @@ tune_oncc92=14
 pan_oncc95=100
 
 <region>
-sample=..\Samples\c2_sc.wav
+sample=..\Samples\c2_sc.flac
 lokey=47
 hikey=47
 offset_random=4856
@@ -339,7 +339,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\db2_sc.wav
+sample=..\Samples\db2_sc.flac
 lokey=47
 hikey=47
 offset_random=6243
@@ -348,7 +348,7 @@ tune_oncc92=14
 pan_oncc95=100
 
 <region>
-sample=..\Samples\db2_sc.wav
+sample=..\Samples\db2_sc.flac
 lokey=48
 hikey=48
 offset_random=3465
@@ -357,7 +357,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\d2_sc.wav
+sample=..\Samples\d2_sc.flac
 lokey=48
 hikey=48
 offset_random=7564
@@ -366,7 +366,7 @@ tune_oncc92=14
 pan_oncc95=100
 
 <region>
-sample=..\Samples\d2_sc.wav
+sample=..\Samples\d2_sc.flac
 lokey=49
 hikey=49
 offset_random=5321
@@ -375,7 +375,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\eb2_sc.wav
+sample=..\Samples\eb2_sc.flac
 lokey=49
 hikey=49
 offset_random=4567
@@ -384,7 +384,7 @@ tune_oncc92=14
 pan_oncc95=100
 
 <region>
-sample=..\Samples\eb2_sc.wav
+sample=..\Samples\eb2_sc.flac
 lokey=50
 hikey=50
 offset_random=2534
@@ -393,7 +393,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\e2_sc.wav
+sample=..\Samples\e2_sc.flac
 lokey=50
 hikey=50
 offset_random=5674
@@ -402,7 +402,7 @@ tune_oncc92=14
 pan_oncc95=100
 
 <region>
-sample=..\Samples\e2_sc.wav
+sample=..\Samples\e2_sc.flac
 lokey=51
 hikey=51
 offset_random=5867
@@ -411,7 +411,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\f2_sc.wav
+sample=..\Samples\f2_sc.flac
 lokey=51
 hikey=51
 offset_random=6345
@@ -420,7 +420,7 @@ tune_oncc92=14
 pan_oncc95=100
 
 <region>
-sample=..\Samples\f2_sc.wav
+sample=..\Samples\f2_sc.flac
 lokey=52
 hikey=52
 offset_random=5243
@@ -429,7 +429,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\gb2_sc.wav
+sample=..\Samples\gb2_sc.flac
 lokey=52
 hikey=52
 offset_random=4653
@@ -438,7 +438,7 @@ tune_oncc92=14
 pan_oncc95=100
 
 <region>
-sample=..\Samples\gb2_sc.wav
+sample=..\Samples\gb2_sc.flac
 lokey=53
 hikey=60
 offset_random=5867
@@ -447,7 +447,7 @@ tune_oncc92=-14
 pan_oncc95=-100
 
 <region>
-sample=..\Samples\g2_sc.wav
+sample=..\Samples\g2_sc.flac
 lokey=53
 hikey=60
 offset_random=4356

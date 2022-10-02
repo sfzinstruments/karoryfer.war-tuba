@@ -21,16 +21,16 @@ eq3_gain_oncc1=-3
 
 
 <region>
-sample=..\Samples\breath_rr1_cnd.wav
+sample=..\Samples\breath_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\breath_rr2_cnd.wav
+sample=..\Samples\breath_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\breath_rr3_cnd.wav
+sample=..\Samples\breath_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -45,51 +45,51 @@ lfo02_pitch_oncc117=0
 lfo01_eq1gain_oncc114=0
 
 <region>
-sample=..\Samples\valve_close_rr1_cnd.wav
+sample=..\Samples\valve_close_rr1_cnd.flac
 hirand=0.100
 
 <region>
-sample=..\Samples\valve_close_rr10_cnd.wav
+sample=..\Samples\valve_close_rr10_cnd.flac
 lorand=0.100
 hirand=0.200
 
 <region>
-sample=..\Samples\valve_close_rr2_cnd.wav
+sample=..\Samples\valve_close_rr2_cnd.flac
 lorand=0.200
 hirand=0.300
 
 <region>
-sample=..\Samples\valve_close_rr3_cnd.wav
+sample=..\Samples\valve_close_rr3_cnd.flac
 lorand=0.300
 hirand=0.400
 
 <region>
-sample=..\Samples\valve_close_rr4_cnd.wav
+sample=..\Samples\valve_close_rr4_cnd.flac
 lorand=0.400
 hirand=0.500
 
 <region>
-sample=..\Samples\valve_close_rr5_cnd.wav
+sample=..\Samples\valve_close_rr5_cnd.flac
 lorand=0.500
 hirand=0.600
 
 <region>
-sample=..\Samples\valve_close_rr6_cnd.wav
+sample=..\Samples\valve_close_rr6_cnd.flac
 lorand=0.600
 hirand=0.700
 
 <region>
-sample=..\Samples\valve_close_rr7_cnd.wav
+sample=..\Samples\valve_close_rr7_cnd.flac
 lorand=0.700
 hirand=0.800
 
 <region>
-sample=..\Samples\valve_close_rr8_cnd.wav
+sample=..\Samples\valve_close_rr8_cnd.flac
 lorand=0.800
 hirand=0.900
 
 <region>
-sample=..\Samples\valve_close_rr9_cnd.wav
+sample=..\Samples\valve_close_rr9_cnd.flac
 lorand=0.900
 
 //========================
@@ -104,51 +104,51 @@ lfo02_pitch_oncc117=0
 lfo01_eq1gain_oncc114=0
 
 <region>
-sample=..\Samples\valve_open_rr1_cnd.wav
+sample=..\Samples\valve_open_rr1_cnd.flac
 hirand=0.100
 
 <region>
-sample=..\Samples\valve_open_rr10_cnd.wav
+sample=..\Samples\valve_open_rr10_cnd.flac
 lorand=0.100
 hirand=0.200
 
 <region>
-sample=..\Samples\valve_open_rr2_cnd.wav
+sample=..\Samples\valve_open_rr2_cnd.flac
 lorand=0.200
 hirand=0.300
 
 <region>
-sample=..\Samples\valve_open_rr3_cnd.wav
+sample=..\Samples\valve_open_rr3_cnd.flac
 lorand=0.300
 hirand=0.400
 
 <region>
-sample=..\Samples\valve_open_rr4_cnd.wav
+sample=..\Samples\valve_open_rr4_cnd.flac
 lorand=0.400
 hirand=0.500
 
 <region>
-sample=..\Samples\valve_open_rr5_cnd.wav
+sample=..\Samples\valve_open_rr5_cnd.flac
 lorand=0.500
 hirand=0.600
 
 <region>
-sample=..\Samples\valve_open_rr6_cnd.wav
+sample=..\Samples\valve_open_rr6_cnd.flac
 lorand=0.600
 hirand=0.700
 
 <region>
-sample=..\Samples\valve_open_rr7_cnd.wav
+sample=..\Samples\valve_open_rr7_cnd.flac
 lorand=0.700
 hirand=0.800
 
 <region>
-sample=..\Samples\valve_open_rr8_cnd.wav
+sample=..\Samples\valve_open_rr8_cnd.flac
 lorand=0.800
 hirand=0.900
 
 <region>
-sample=..\Samples\valve_open_rr9_cnd.wav
+sample=..\Samples\valve_open_rr9_cnd.flac
 lorand=0.900
 
 //========================
@@ -175,57 +175,57 @@ eq3_gain_oncc1=-3
 
 
 <region>
-sample=..\Samples\woo_vl1_rr1_cnd.wav
+sample=..\Samples\woo_vl1_rr1_cnd.flac
 hivel=25
 hirand=0.500
 
 <region>
-sample=..\Samples\woo_vl1_rr2_cnd.wav
+sample=..\Samples\woo_vl1_rr2_cnd.flac
 hivel=25
 lorand=0.500
 
 <region>
-sample=..\Samples\woo_vl2_rr1_cnd.wav
+sample=..\Samples\woo_vl2_rr1_cnd.flac
 lovel=26
 hivel=50
 hirand=0.500
 
 <region>
-sample=..\Samples\woo_vl2_rr2_cnd.wav
+sample=..\Samples\woo_vl2_rr2_cnd.flac
 lovel=26
 hivel=50
 lorand=0.500
 
 <region>
-sample=..\Samples\woo_vl3_rr1_cnd.wav
+sample=..\Samples\woo_vl3_rr1_cnd.flac
 lovel=51
 hivel=75
 hirand=0.500
 
 <region>
-sample=..\Samples\woo_vl3_rr2_cnd.wav
+sample=..\Samples\woo_vl3_rr2_cnd.flac
 lovel=51
 hivel=75
 lorand=0.500
 
 <region>
-sample=..\Samples\woo_vl4_rr1_cnd.wav
+sample=..\Samples\woo_vl4_rr1_cnd.flac
 lovel=76
 hivel=100
 hirand=0.500
 
 <region>
-sample=..\Samples\woo_vl4_rr2_cnd.wav
+sample=..\Samples\woo_vl4_rr2_cnd.flac
 lovel=76
 hivel=100
 lorand=0.500
 
 <region>
-sample=..\Samples\woo_vl5_rr1_cnd.wav
+sample=..\Samples\woo_vl5_rr1_cnd.flac
 lovel=101
 hirand=0.500
 
 <region>
-sample=..\Samples\woo_vl5_rr2_cnd.wav
+sample=..\Samples\woo_vl5_rr2_cnd.flac
 lovel=101
 lorand=0.500

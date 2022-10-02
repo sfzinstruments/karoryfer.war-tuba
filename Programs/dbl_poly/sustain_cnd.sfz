@@ -17,7 +17,7 @@ eq3_gain_oncc1=-3
 
 
 <region>
-sample=..\Samples\f0_sus_cnd.wav
+sample=..\Samples\f0_sus_cnd.flac
 lokey=27
 hikey=29
 tune_oncc80=11
@@ -25,7 +25,7 @@ pitch_keycenter=29
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\gb0_sus_cnd.wav
+sample=..\Samples\gb0_sus_cnd.flac
 lokey=27
 hikey=29
 tune_oncc80=-11
@@ -33,7 +33,7 @@ pitch_keycenter=30
 pan_oncc81=100
 
 <region>
-sample=..\Samples\gb0_sus_cnd.wav
+sample=..\Samples\gb0_sus_cnd.flac
 lokey=30
 hikey=30
 tune_oncc80=11
@@ -41,7 +41,7 @@ pitch_keycenter=30
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\g0_sus_cnd.wav
+sample=..\Samples\g0_sus_cnd.flac
 lokey=30
 hikey=30
 tune_oncc80=-11
@@ -49,7 +49,7 @@ pitch_keycenter=31
 pan_oncc81=100
 
 <region>
-sample=..\Samples\g0_sus_cnd.wav
+sample=..\Samples\g0_sus_cnd.flac
 lokey=31
 hikey=31
 tune_oncc80=11
@@ -57,7 +57,7 @@ pitch_keycenter=31
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\ab0_sus_cnd.wav
+sample=..\Samples\ab0_sus_cnd.flac
 lokey=31
 hikey=31
 tune_oncc80=-11
@@ -65,7 +65,7 @@ pitch_keycenter=32
 pan_oncc81=100
 
 <region>
-sample=..\Samples\ab0_sus_cnd.wav
+sample=..\Samples\ab0_sus_cnd.flac
 lokey=32
 hikey=32
 tune_oncc80=11
@@ -73,7 +73,7 @@ pitch_keycenter=32
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\a0_sus_cnd.wav
+sample=..\Samples\a0_sus_cnd.flac
 lokey=32
 hikey=32
 tune_oncc80=-11
@@ -81,7 +81,7 @@ pitch_keycenter=33
 pan_oncc81=100
 
 <region>
-sample=..\Samples\a0_sus_cnd.wav
+sample=..\Samples\a0_sus_cnd.flac
 lokey=33
 hikey=33
 tune_oncc80=11
@@ -89,7 +89,7 @@ pitch_keycenter=33
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\bb0_sus_cnd.wav
+sample=..\Samples\bb0_sus_cnd.flac
 lokey=33
 hikey=33
 tune_oncc80=-11
@@ -97,7 +97,7 @@ pitch_keycenter=34
 pan_oncc81=100
 
 <region>
-sample=..\Samples\bb0_sus_cnd.wav
+sample=..\Samples\bb0_sus_cnd.flac
 lokey=34
 hikey=34
 tune_oncc80=11
@@ -105,7 +105,7 @@ pitch_keycenter=34
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\b0_sus_cnd.wav
+sample=..\Samples\b0_sus_cnd.flac
 lokey=34
 hikey=34
 tune_oncc80=-11
@@ -113,7 +113,7 @@ pitch_keycenter=35
 pan_oncc81=100
 
 <region>
-sample=..\Samples\b0_sus_cnd.wav
+sample=..\Samples\b0_sus_cnd.flac
 lokey=35
 hikey=35
 tune_oncc80=11
@@ -121,7 +121,7 @@ pitch_keycenter=35
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\c1_sus_cnd.wav
+sample=..\Samples\c1_sus_cnd.flac
 lokey=35
 hikey=35
 tune_oncc80=-11
@@ -129,7 +129,7 @@ pitch_keycenter=36
 pan_oncc81=100
 
 <region>
-sample=..\Samples\c1_sus_cnd.wav
+sample=..\Samples\c1_sus_cnd.flac
 lokey=36
 hikey=36
 tune_oncc80=11
@@ -137,7 +137,7 @@ pitch_keycenter=36
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\db1_sus_cnd.wav
+sample=..\Samples\db1_sus_cnd.flac
 lokey=36
 hikey=36
 tune_oncc80=-11
@@ -145,7 +145,7 @@ pitch_keycenter=37
 pan_oncc81=100
 
 <region>
-sample=..\Samples\db1_sus_cnd.wav
+sample=..\Samples\db1_sus_cnd.flac
 lokey=37
 hikey=37
 tune_oncc80=11
@@ -153,7 +153,7 @@ pitch_keycenter=37
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\d1_sus_cnd.wav
+sample=..\Samples\d1_sus_cnd.flac
 lokey=37
 hikey=37
 tune_oncc80=-11
@@ -161,7 +161,7 @@ pitch_keycenter=38
 pan_oncc81=100
 
 <region>
-sample=..\Samples\d1_sus_cnd.wav
+sample=..\Samples\d1_sus_cnd.flac
 lokey=38
 hikey=38
 tune_oncc80=11
@@ -169,7 +169,7 @@ pitch_keycenter=38
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\eb1_sus_cnd.wav
+sample=..\Samples\eb1_sus_cnd.flac
 lokey=38
 hikey=38
 tune_oncc80=-11
@@ -177,7 +177,7 @@ pitch_keycenter=39
 pan_oncc81=100
 
 <region>
-sample=..\Samples\eb1_sus_cnd.wav
+sample=..\Samples\eb1_sus_cnd.flac
 lokey=39
 hikey=39
 tune_oncc80=11
@@ -185,7 +185,7 @@ pitch_keycenter=39
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\e1_sus_cnd.wav
+sample=..\Samples\e1_sus_cnd.flac
 lokey=39
 hikey=39
 tune_oncc80=-11
@@ -193,7 +193,7 @@ pitch_keycenter=40
 pan_oncc81=100
 
 <region>
-sample=..\Samples\e1_sus_cnd.wav
+sample=..\Samples\e1_sus_cnd.flac
 lokey=40
 hikey=40
 tune_oncc80=11
@@ -201,7 +201,7 @@ pitch_keycenter=40
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\f1_sus_cnd.wav
+sample=..\Samples\f1_sus_cnd.flac
 lokey=40
 hikey=40
 tune_oncc80=-11
@@ -209,7 +209,7 @@ pitch_keycenter=41
 pan_oncc81=100
 
 <region>
-sample=..\Samples\f1_sus_cnd.wav
+sample=..\Samples\f1_sus_cnd.flac
 lokey=41
 hikey=41
 tune_oncc80=11
@@ -217,7 +217,7 @@ pitch_keycenter=41
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\gb1_sus_cnd.wav
+sample=..\Samples\gb1_sus_cnd.flac
 lokey=41
 hikey=41
 tune_oncc80=-11
@@ -225,7 +225,7 @@ pitch_keycenter=42
 pan_oncc81=100
 
 <region>
-sample=..\Samples\gb1_sus_cnd.wav
+sample=..\Samples\gb1_sus_cnd.flac
 lokey=42
 hikey=42
 tune_oncc80=11
@@ -233,7 +233,7 @@ pitch_keycenter=42
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\g1_sus_cnd.wav
+sample=..\Samples\g1_sus_cnd.flac
 lokey=42
 hikey=42
 tune_oncc80=-11
@@ -241,7 +241,7 @@ pitch_keycenter=43
 pan_oncc81=100
 
 <region>
-sample=..\Samples\g1_sus_cnd.wav
+sample=..\Samples\g1_sus_cnd.flac
 lokey=43
 hikey=43
 tune_oncc80=11
@@ -249,7 +249,7 @@ pitch_keycenter=43
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\ab1_sus_cnd.wav
+sample=..\Samples\ab1_sus_cnd.flac
 lokey=43
 hikey=43
 tune_oncc80=-11
@@ -257,7 +257,7 @@ pitch_keycenter=44
 pan_oncc81=100
 
 <region>
-sample=..\Samples\ab1_sus_cnd.wav
+sample=..\Samples\ab1_sus_cnd.flac
 lokey=44
 hikey=44
 tune_oncc80=11
@@ -265,7 +265,7 @@ pitch_keycenter=44
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\a1_sus_cnd.wav
+sample=..\Samples\a1_sus_cnd.flac
 lokey=44
 hikey=44
 tune_oncc80=-11
@@ -273,7 +273,7 @@ pitch_keycenter=45
 pan_oncc81=100
 
 <region>
-sample=..\Samples\a1_sus_cnd.wav
+sample=..\Samples\a1_sus_cnd.flac
 lokey=45
 hikey=45
 tune_oncc80=11
@@ -281,7 +281,7 @@ pitch_keycenter=45
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\bb1_sus_cnd.wav
+sample=..\Samples\bb1_sus_cnd.flac
 lokey=45
 hikey=45
 tune_oncc80=-11
@@ -289,7 +289,7 @@ pitch_keycenter=46
 pan_oncc81=100
 
 <region>
-sample=..\Samples\bb1_sus_cnd.wav
+sample=..\Samples\bb1_sus_cnd.flac
 lokey=46
 hikey=46
 tune_oncc80=11
@@ -297,7 +297,7 @@ pitch_keycenter=46
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\b1_sus_cnd.wav
+sample=..\Samples\b1_sus_cnd.flac
 lokey=46
 hikey=46
 tune_oncc80=-11
@@ -305,7 +305,7 @@ pitch_keycenter=47
 pan_oncc81=100
 
 <region>
-sample=..\Samples\b1_sus_cnd.wav
+sample=..\Samples\b1_sus_cnd.flac
 lokey=47
 hikey=47
 tune_oncc80=11
@@ -313,7 +313,7 @@ pitch_keycenter=47
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\c2_sus_cnd.wav
+sample=..\Samples\c2_sus_cnd.flac
 lokey=47
 hikey=47
 tune_oncc80=-11
@@ -321,7 +321,7 @@ pitch_keycenter=48
 pan_oncc81=100
 
 <region>
-sample=..\Samples\c2_sus_cnd.wav
+sample=..\Samples\c2_sus_cnd.flac
 lokey=48
 hikey=48
 tune_oncc80=11
@@ -329,7 +329,7 @@ pitch_keycenter=48
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\db2_sus_cnd.wav
+sample=..\Samples\db2_sus_cnd.flac
 lokey=48
 hikey=48
 tune_oncc80=-11
@@ -337,7 +337,7 @@ pitch_keycenter=49
 pan_oncc81=100
 
 <region>
-sample=..\Samples\db2_sus_cnd.wav
+sample=..\Samples\db2_sus_cnd.flac
 lokey=49
 hikey=49
 tune_oncc80=11
@@ -345,7 +345,7 @@ pitch_keycenter=49
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\d2_sus_cnd.wav
+sample=..\Samples\d2_sus_cnd.flac
 lokey=49
 hikey=49
 tune_oncc80=-11
@@ -353,7 +353,7 @@ pitch_keycenter=50
 pan_oncc81=100
 
 <region>
-sample=..\Samples\d2_sus_cnd.wav
+sample=..\Samples\d2_sus_cnd.flac
 lokey=50
 hikey=50
 tune_oncc80=11
@@ -361,7 +361,7 @@ pitch_keycenter=50
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\eb2_sus_cnd.wav
+sample=..\Samples\eb2_sus_cnd.flac
 lokey=50
 hikey=50
 tune_oncc80=-11
@@ -369,7 +369,7 @@ pitch_keycenter=51
 pan_oncc81=100
 
 <region>
-sample=..\Samples\eb2_sus_cnd.wav
+sample=..\Samples\eb2_sus_cnd.flac
 lokey=51
 hikey=51
 tune_oncc80=11
@@ -377,7 +377,7 @@ pitch_keycenter=51
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\e2_sus_cnd.wav
+sample=..\Samples\e2_sus_cnd.flac
 lokey=51
 hikey=51
 tune_oncc80=-11
@@ -385,7 +385,7 @@ pitch_keycenter=52
 pan_oncc81=100
 
 <region>
-sample=..\Samples\e2_sus_cnd.wav
+sample=..\Samples\e2_sus_cnd.flac
 lokey=52
 hikey=52
 tune_oncc80=11
@@ -393,7 +393,7 @@ pitch_keycenter=52
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\f2_sus_cnd.wav
+sample=..\Samples\f2_sus_cnd.flac
 lokey=52
 hikey=52
 tune_oncc80=-11
@@ -401,7 +401,7 @@ pitch_keycenter=53
 pan_oncc81=100
 
 <region>
-sample=..\Samples\f2_sus_cnd.wav
+sample=..\Samples\f2_sus_cnd.flac
 lokey=53
 hikey=53
 tune_oncc80=11
@@ -409,7 +409,7 @@ pitch_keycenter=53
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\gb2_sus_cnd.wav
+sample=..\Samples\gb2_sus_cnd.flac
 lokey=53
 hikey=53
 tune_oncc80=-11
@@ -417,7 +417,7 @@ pitch_keycenter=54
 pan_oncc81=100
 
 <region>
-sample=..\Samples\gb2_sus_cnd.wav
+sample=..\Samples\gb2_sus_cnd.flac
 lokey=54
 hikey=60
 tune_oncc80=11
@@ -425,7 +425,7 @@ pitch_keycenter=54
 pan_oncc81=-100
 
 <region>
-sample=..\Samples\g2_sus_cnd.wav
+sample=..\Samples\g2_sus_cnd.flac
 lokey=54
 hikey=60
 tune_oncc80=-11

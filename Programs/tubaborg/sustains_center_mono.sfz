@@ -10,7 +10,7 @@ amplitude_cc87=100
 locc87=1
 
 <region>
-sample=..\Samples\f0_sus_cnd.wav
+sample=..\Samples\f0_sus_cnd.flac
 lokey=24
 hikey=29
 trigger=legato
@@ -20,7 +20,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\f0_sus_cnd.wav
+sample=..\Samples\f0_sus_cnd.flac
 lokey=24
 hikey=29
 trigger=first
@@ -29,7 +29,7 @@ pitch_keycenter=29
 locc121=64
 
 <region>
-sample=..\Samples\gb0_sus_cnd.wav
+sample=..\Samples\gb0_sus_cnd.flac
 lokey=30
 hikey=30
 trigger=legato
@@ -39,7 +39,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\gb0_sus_cnd.wav
+sample=..\Samples\gb0_sus_cnd.flac
 lokey=30
 hikey=30
 trigger=first
@@ -48,7 +48,7 @@ pitch_keycenter=30
 locc121=64
 
 <region>
-sample=..\Samples\g0_sus_cnd.wav
+sample=..\Samples\g0_sus_cnd.flac
 lokey=31
 hikey=31
 trigger=legato
@@ -58,7 +58,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\g0_sus_cnd.wav
+sample=..\Samples\g0_sus_cnd.flac
 lokey=31
 hikey=31
 trigger=first
@@ -67,7 +67,7 @@ pitch_keycenter=31
 locc121=64
 
 <region>
-sample=..\Samples\ab0_sus_cnd.wav
+sample=..\Samples\ab0_sus_cnd.flac
 lokey=32
 hikey=32
 trigger=legato
@@ -77,7 +77,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\ab0_sus_cnd.wav
+sample=..\Samples\ab0_sus_cnd.flac
 lokey=32
 hikey=32
 trigger=first
@@ -86,7 +86,7 @@ pitch_keycenter=32
 locc121=64
 
 <region>
-sample=..\Samples\a0_sus_cnd.wav
+sample=..\Samples\a0_sus_cnd.flac
 lokey=33
 hikey=33
 trigger=legato
@@ -96,7 +96,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\a0_sus_cnd.wav
+sample=..\Samples\a0_sus_cnd.flac
 lokey=33
 hikey=33
 trigger=first
@@ -105,7 +105,7 @@ pitch_keycenter=33
 locc121=64
 
 <region>
-sample=..\Samples\bb0_sus_cnd.wav
+sample=..\Samples\bb0_sus_cnd.flac
 lokey=34
 hikey=34
 trigger=legato
@@ -114,7 +114,7 @@ pitch_keycenter=34
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\bb0_sus_cnd.wav
+sample=..\Samples\bb0_sus_cnd.flac
 lokey=34
 hikey=34
 trigger=first
@@ -123,7 +123,7 @@ pitch_keycenter=34
 locc121=64
 
 <region>
-sample=..\Samples\b0_sus_cnd.wav
+sample=..\Samples\b0_sus_cnd.flac
 lokey=35
 hikey=35
 trigger=legato
@@ -133,7 +133,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\b0_sus_cnd.wav
+sample=..\Samples\b0_sus_cnd.flac
 lokey=35
 hikey=35
 trigger=first
@@ -142,7 +142,7 @@ pitch_keycenter=35
 locc121=64
 
 <region>
-sample=..\Samples\c1_sus_cnd.wav
+sample=..\Samples\c1_sus_cnd.flac
 lokey=36
 hikey=36
 trigger=legato
@@ -152,7 +152,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\c1_sus_cnd.wav
+sample=..\Samples\c1_sus_cnd.flac
 lokey=36
 hikey=36
 trigger=first
@@ -161,7 +161,7 @@ pitch_keycenter=36
 locc121=64
 
 <region>
-sample=..\Samples\db1_sus_cnd.wav
+sample=..\Samples\db1_sus_cnd.flac
 lokey=37
 hikey=37
 trigger=legato
@@ -171,7 +171,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\db1_sus_cnd.wav
+sample=..\Samples\db1_sus_cnd.flac
 lokey=37
 hikey=37
 trigger=first
@@ -180,7 +180,7 @@ pitch_keycenter=37
 locc121=64
 
 <region>
-sample=..\Samples\d1_sus_cnd.wav
+sample=..\Samples\d1_sus_cnd.flac
 lokey=38
 hikey=38
 trigger=legato
@@ -190,7 +190,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\d1_sus_cnd.wav
+sample=..\Samples\d1_sus_cnd.flac
 lokey=38
 hikey=38
 trigger=first
@@ -199,7 +199,7 @@ pitch_keycenter=38
 locc121=64
 
 <region>
-sample=..\Samples\eb1_sus_cnd.wav
+sample=..\Samples\eb1_sus_cnd.flac
 lokey=39
 hikey=39
 trigger=legato
@@ -209,7 +209,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\eb1_sus_cnd.wav
+sample=..\Samples\eb1_sus_cnd.flac
 lokey=39
 hikey=39
 trigger=first
@@ -218,7 +218,7 @@ pitch_keycenter=39
 locc121=64
 
 <region>
-sample=..\Samples\e1_sus_cnd.wav
+sample=..\Samples\e1_sus_cnd.flac
 lokey=40
 hikey=40
 trigger=legato
@@ -228,7 +228,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\e1_sus_cnd.wav
+sample=..\Samples\e1_sus_cnd.flac
 lokey=40
 hikey=40
 trigger=first
@@ -237,7 +237,7 @@ pitch_keycenter=40
 locc121=64
 
 <region>
-sample=..\Samples\f1_sus_cnd.wav
+sample=..\Samples\f1_sus_cnd.flac
 lokey=41
 hikey=41
 trigger=legato
@@ -247,7 +247,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\f1_sus_cnd.wav
+sample=..\Samples\f1_sus_cnd.flac
 lokey=41
 hikey=41
 trigger=first
@@ -256,7 +256,7 @@ pitch_keycenter=41
 locc121=64
 
 <region>
-sample=..\Samples\gb1_sus_cnd.wav
+sample=..\Samples\gb1_sus_cnd.flac
 lokey=42
 hikey=42
 trigger=legato
@@ -266,7 +266,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\gb1_sus_cnd.wav
+sample=..\Samples\gb1_sus_cnd.flac
 lokey=42
 hikey=42
 trigger=first
@@ -275,7 +275,7 @@ pitch_keycenter=42
 locc121=64
 
 <region>
-sample=..\Samples\g1_sus_cnd.wav
+sample=..\Samples\g1_sus_cnd.flac
 lokey=43
 hikey=43
 trigger=legato
@@ -285,7 +285,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\g1_sus_cnd.wav
+sample=..\Samples\g1_sus_cnd.flac
 lokey=43
 hikey=43
 trigger=first
@@ -294,7 +294,7 @@ pitch_keycenter=43
 locc121=64
 
 <region>
-sample=..\Samples\ab1_sus_cnd.wav
+sample=..\Samples\ab1_sus_cnd.flac
 lokey=44
 hikey=44
 trigger=legato
@@ -304,7 +304,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\ab1_sus_cnd.wav
+sample=..\Samples\ab1_sus_cnd.flac
 lokey=44
 hikey=44
 trigger=first
@@ -313,7 +313,7 @@ pitch_keycenter=44
 locc121=64
 
 <region>
-sample=..\Samples\a1_sus_cnd.wav
+sample=..\Samples\a1_sus_cnd.flac
 lokey=45
 hikey=45
 trigger=legato
@@ -323,7 +323,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\a1_sus_cnd.wav
+sample=..\Samples\a1_sus_cnd.flac
 lokey=45
 hikey=45
 trigger=first
@@ -332,7 +332,7 @@ pitch_keycenter=45
 locc121=64
 
 <region>
-sample=..\Samples\bb1_sus_cnd.wav
+sample=..\Samples\bb1_sus_cnd.flac
 lokey=46
 hikey=46
 trigger=legato
@@ -342,7 +342,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\bb1_sus_cnd.wav
+sample=..\Samples\bb1_sus_cnd.flac
 lokey=46
 hikey=46
 trigger=first
@@ -351,7 +351,7 @@ pitch_keycenter=46
 locc121=64
 
 <region>
-sample=..\Samples\b1_sus_cnd.wav
+sample=..\Samples\b1_sus_cnd.flac
 lokey=47
 hikey=47
 trigger=legato
@@ -361,7 +361,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\b1_sus_cnd.wav
+sample=..\Samples\b1_sus_cnd.flac
 lokey=47
 hikey=47
 trigger=first
@@ -370,7 +370,7 @@ pitch_keycenter=47
 locc121=64
 
 <region>
-sample=..\Samples\c2_sus_cnd.wav
+sample=..\Samples\c2_sus_cnd.flac
 lokey=48
 hikey=48
 trigger=legato
@@ -380,7 +380,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\c2_sus_cnd.wav
+sample=..\Samples\c2_sus_cnd.flac
 lokey=48
 hikey=48
 trigger=first
@@ -389,7 +389,7 @@ pitch_keycenter=48
 locc121=64
 
 <region>
-sample=..\Samples\db2_sus_cnd.wav
+sample=..\Samples\db2_sus_cnd.flac
 lokey=49
 hikey=49
 trigger=legato
@@ -399,7 +399,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\db2_sus_cnd.wav
+sample=..\Samples\db2_sus_cnd.flac
 lokey=49
 hikey=49
 trigger=first
@@ -408,7 +408,7 @@ pitch_keycenter=49
 locc121=64
 
 <region>
-sample=..\Samples\d2_sus_cnd.wav
+sample=..\Samples\d2_sus_cnd.flac
 lokey=50
 hikey=50
 trigger=legato
@@ -418,7 +418,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\d2_sus_cnd.wav
+sample=..\Samples\d2_sus_cnd.flac
 lokey=50
 hikey=50
 trigger=first
@@ -427,7 +427,7 @@ pitch_keycenter=50
 locc121=64
 
 <region>
-sample=..\Samples\eb2_sus_cnd.wav
+sample=..\Samples\eb2_sus_cnd.flac
 lokey=51
 hikey=51
 trigger=legato
@@ -437,7 +437,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\eb2_sus_cnd.wav
+sample=..\Samples\eb2_sus_cnd.flac
 lokey=51
 hikey=51
 trigger=first
@@ -446,7 +446,7 @@ pitch_keycenter=51
 locc121=64
 
 <region>
-sample=..\Samples\e2_sus_cnd.wav
+sample=..\Samples\e2_sus_cnd.flac
 lokey=52
 hikey=52
 trigger=legato
@@ -456,7 +456,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\e2_sus_cnd.wav
+sample=..\Samples\e2_sus_cnd.flac
 lokey=52
 hikey=52
 trigger=first
@@ -465,7 +465,7 @@ pitch_keycenter=52
 locc121=64
 
 <region>
-sample=..\Samples\f2_sus_cnd.wav
+sample=..\Samples\f2_sus_cnd.flac
 lokey=53
 hikey=60
 trigger=legato
@@ -475,7 +475,7 @@ locc121=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=..\Samples\f2_sus_cnd.wav
+sample=..\Samples\f2_sus_cnd.flac
 lokey=53
 hikey=60
 trigger=first

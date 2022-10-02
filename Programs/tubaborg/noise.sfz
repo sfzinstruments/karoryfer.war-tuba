@@ -10,15 +10,15 @@ lfo03_volume_oncc118=4
 hicc121=63
 
 <region>
-sample=..\Samples\breath_rr1_cnd.wav
+sample=..\Samples\breath_rr1_cnd.flac
 offset_random=34626
 
 <region>
-sample=..\Samples\breath_rr2_cnd.wav
+sample=..\Samples\breath_rr2_cnd.flac
 pan_oncc91=-100
 offset_random=24614
 
 <region>
-sample=..\Samples\breath_rr3_cnd.wav
+sample=..\Samples\breath_rr3_cnd.flac
 pan_oncc91=100
 offset_random=84572

@@ -10,16 +10,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\f0_s_vl1_rr1_cnd.wav
+sample=..\Samples\f0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f0_s_vl1_rr2_cnd.wav
+sample=..\Samples\f0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f0_s_vl1_rr3_cnd.wav
+sample=..\Samples\f0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -35,16 +35,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\f0_s_vl2_rr1_cnd.wav
+sample=..\Samples\f0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f0_s_vl2_rr2_cnd.wav
+sample=..\Samples\f0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f0_s_vl2_rr3_cnd.wav
+sample=..\Samples\f0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -60,16 +60,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\f0_s_vl3_rr1_cnd.wav
+sample=..\Samples\f0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f0_s_vl3_rr2_cnd.wav
+sample=..\Samples\f0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f0_s_vl3_rr3_cnd.wav
+sample=..\Samples\f0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -83,16 +83,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\f0_s_vl4_rr1_cnd.wav
+sample=..\Samples\f0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f0_s_vl4_rr2_cnd.wav
+sample=..\Samples\f0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f0_s_vl4_rr3_cnd.wav
+sample=..\Samples\f0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -109,16 +109,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\gb0_s_vl1_rr1_cnd.wav
+sample=..\Samples\gb0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb0_s_vl1_rr2_cnd.wav
+sample=..\Samples\gb0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb0_s_vl1_rr3_cnd.wav
+sample=..\Samples\gb0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -136,16 +136,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\gb0_s_vl2_rr1_cnd.wav
+sample=..\Samples\gb0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb0_s_vl2_rr2_cnd.wav
+sample=..\Samples\gb0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb0_s_vl2_rr3_cnd.wav
+sample=..\Samples\gb0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -163,16 +163,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\gb0_s_vl3_rr1_cnd.wav
+sample=..\Samples\gb0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb0_s_vl3_rr2_cnd.wav
+sample=..\Samples\gb0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb0_s_vl3_rr3_cnd.wav
+sample=..\Samples\gb0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -188,16 +188,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\gb0_s_vl4_rr1_cnd.wav
+sample=..\Samples\gb0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb0_s_vl4_rr2_cnd.wav
+sample=..\Samples\gb0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb0_s_vl4_rr3_cnd.wav
+sample=..\Samples\gb0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -212,16 +212,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\gb0_s_vl1_rr1_cnd.wav
+sample=..\Samples\gb0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb0_s_vl1_rr2_cnd.wav
+sample=..\Samples\gb0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb0_s_vl1_rr3_cnd.wav
+sample=..\Samples\gb0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -237,16 +237,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\gb0_s_vl2_rr1_cnd.wav
+sample=..\Samples\gb0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb0_s_vl2_rr2_cnd.wav
+sample=..\Samples\gb0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb0_s_vl2_rr3_cnd.wav
+sample=..\Samples\gb0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -262,16 +262,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\gb0_s_vl3_rr1_cnd.wav
+sample=..\Samples\gb0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb0_s_vl3_rr2_cnd.wav
+sample=..\Samples\gb0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb0_s_vl3_rr3_cnd.wav
+sample=..\Samples\gb0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -285,16 +285,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\gb0_s_vl4_rr1_cnd.wav
+sample=..\Samples\gb0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb0_s_vl4_rr2_cnd.wav
+sample=..\Samples\gb0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb0_s_vl4_rr3_cnd.wav
+sample=..\Samples\gb0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -311,16 +311,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\g0_s_vl1_rr1_cnd.wav
+sample=..\Samples\g0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g0_s_vl1_rr2_cnd.wav
+sample=..\Samples\g0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g0_s_vl1_rr3_cnd.wav
+sample=..\Samples\g0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -338,16 +338,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\g0_s_vl2_rr1_cnd.wav
+sample=..\Samples\g0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g0_s_vl2_rr2_cnd.wav
+sample=..\Samples\g0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g0_s_vl2_rr3_cnd.wav
+sample=..\Samples\g0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -365,16 +365,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\g0_s_vl3_rr1_cnd.wav
+sample=..\Samples\g0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g0_s_vl3_rr2_cnd.wav
+sample=..\Samples\g0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g0_s_vl3_rr3_cnd.wav
+sample=..\Samples\g0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -390,16 +390,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\g0_s_vl4_rr1_cnd.wav
+sample=..\Samples\g0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g0_s_vl4_rr2_cnd.wav
+sample=..\Samples\g0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g0_s_vl4_rr3_cnd.wav
+sample=..\Samples\g0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -416,16 +416,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\g0_s_vl1_rr1_cnd.wav
+sample=..\Samples\g0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g0_s_vl1_rr2_cnd.wav
+sample=..\Samples\g0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g0_s_vl1_rr3_cnd.wav
+sample=..\Samples\g0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -443,16 +443,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\g0_s_vl2_rr1_cnd.wav
+sample=..\Samples\g0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g0_s_vl2_rr2_cnd.wav
+sample=..\Samples\g0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g0_s_vl2_rr3_cnd.wav
+sample=..\Samples\g0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -470,16 +470,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\g0_s_vl3_rr1_cnd.wav
+sample=..\Samples\g0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g0_s_vl3_rr2_cnd.wav
+sample=..\Samples\g0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g0_s_vl3_rr3_cnd.wav
+sample=..\Samples\g0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -495,16 +495,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\g0_s_vl4_rr1_cnd.wav
+sample=..\Samples\g0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g0_s_vl4_rr2_cnd.wav
+sample=..\Samples\g0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g0_s_vl4_rr3_cnd.wav
+sample=..\Samples\g0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -519,16 +519,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\g0_s_vl1_rr1_cnd.wav
+sample=..\Samples\g0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g0_s_vl1_rr2_cnd.wav
+sample=..\Samples\g0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g0_s_vl1_rr3_cnd.wav
+sample=..\Samples\g0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -544,16 +544,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\g0_s_vl2_rr1_cnd.wav
+sample=..\Samples\g0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g0_s_vl2_rr2_cnd.wav
+sample=..\Samples\g0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g0_s_vl2_rr3_cnd.wav
+sample=..\Samples\g0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -569,16 +569,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\g0_s_vl3_rr1_cnd.wav
+sample=..\Samples\g0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g0_s_vl3_rr2_cnd.wav
+sample=..\Samples\g0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g0_s_vl3_rr3_cnd.wav
+sample=..\Samples\g0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -592,16 +592,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\g0_s_vl4_rr1_cnd.wav
+sample=..\Samples\g0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g0_s_vl4_rr2_cnd.wav
+sample=..\Samples\g0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g0_s_vl4_rr3_cnd.wav
+sample=..\Samples\g0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -618,16 +618,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\ab0_s_vl1_rr1_cnd.wav
+sample=..\Samples\ab0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab0_s_vl1_rr2_cnd.wav
+sample=..\Samples\ab0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab0_s_vl1_rr3_cnd.wav
+sample=..\Samples\ab0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -645,16 +645,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\ab0_s_vl2_rr1_cnd.wav
+sample=..\Samples\ab0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab0_s_vl2_rr2_cnd.wav
+sample=..\Samples\ab0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab0_s_vl2_rr3_cnd.wav
+sample=..\Samples\ab0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -672,16 +672,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\ab0_s_vl3_rr1_cnd.wav
+sample=..\Samples\ab0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab0_s_vl3_rr2_cnd.wav
+sample=..\Samples\ab0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab0_s_vl3_rr3_cnd.wav
+sample=..\Samples\ab0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -697,16 +697,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\ab0_s_vl4_rr1_cnd.wav
+sample=..\Samples\ab0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab0_s_vl4_rr2_cnd.wav
+sample=..\Samples\ab0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab0_s_vl4_rr3_cnd.wav
+sample=..\Samples\ab0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -723,16 +723,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\ab0_s_vl1_rr1_cnd.wav
+sample=..\Samples\ab0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab0_s_vl1_rr2_cnd.wav
+sample=..\Samples\ab0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab0_s_vl1_rr3_cnd.wav
+sample=..\Samples\ab0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -750,16 +750,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\ab0_s_vl2_rr1_cnd.wav
+sample=..\Samples\ab0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab0_s_vl2_rr2_cnd.wav
+sample=..\Samples\ab0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab0_s_vl2_rr3_cnd.wav
+sample=..\Samples\ab0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -777,16 +777,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\ab0_s_vl3_rr1_cnd.wav
+sample=..\Samples\ab0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab0_s_vl3_rr2_cnd.wav
+sample=..\Samples\ab0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab0_s_vl3_rr3_cnd.wav
+sample=..\Samples\ab0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -802,16 +802,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\ab0_s_vl4_rr1_cnd.wav
+sample=..\Samples\ab0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab0_s_vl4_rr2_cnd.wav
+sample=..\Samples\ab0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab0_s_vl4_rr3_cnd.wav
+sample=..\Samples\ab0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -826,16 +826,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\ab0_s_vl1_rr1_cnd.wav
+sample=..\Samples\ab0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab0_s_vl1_rr2_cnd.wav
+sample=..\Samples\ab0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab0_s_vl1_rr3_cnd.wav
+sample=..\Samples\ab0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -851,16 +851,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\ab0_s_vl2_rr1_cnd.wav
+sample=..\Samples\ab0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab0_s_vl2_rr2_cnd.wav
+sample=..\Samples\ab0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab0_s_vl2_rr3_cnd.wav
+sample=..\Samples\ab0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -876,16 +876,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\ab0_s_vl3_rr1_cnd.wav
+sample=..\Samples\ab0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab0_s_vl3_rr2_cnd.wav
+sample=..\Samples\ab0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab0_s_vl3_rr3_cnd.wav
+sample=..\Samples\ab0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -899,16 +899,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\ab0_s_vl4_rr1_cnd.wav
+sample=..\Samples\ab0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab0_s_vl4_rr2_cnd.wav
+sample=..\Samples\ab0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab0_s_vl4_rr3_cnd.wav
+sample=..\Samples\ab0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -925,16 +925,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\a0_s_vl1_rr1_cnd.wav
+sample=..\Samples\a0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a0_s_vl1_rr2_cnd.wav
+sample=..\Samples\a0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a0_s_vl1_rr3_cnd.wav
+sample=..\Samples\a0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -952,16 +952,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\a0_s_vl2_rr1_cnd.wav
+sample=..\Samples\a0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a0_s_vl2_rr2_cnd.wav
+sample=..\Samples\a0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a0_s_vl2_rr3_cnd.wav
+sample=..\Samples\a0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -979,16 +979,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\a0_s_vl3_rr1_cnd.wav
+sample=..\Samples\a0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a0_s_vl3_rr2_cnd.wav
+sample=..\Samples\a0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a0_s_vl3_rr3_cnd.wav
+sample=..\Samples\a0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1004,16 +1004,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\a0_s_vl4_rr1_cnd.wav
+sample=..\Samples\a0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a0_s_vl4_rr2_cnd.wav
+sample=..\Samples\a0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a0_s_vl4_rr3_cnd.wav
+sample=..\Samples\a0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1030,16 +1030,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\a0_s_vl1_rr1_cnd.wav
+sample=..\Samples\a0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a0_s_vl1_rr2_cnd.wav
+sample=..\Samples\a0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a0_s_vl1_rr3_cnd.wav
+sample=..\Samples\a0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1057,16 +1057,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\a0_s_vl2_rr1_cnd.wav
+sample=..\Samples\a0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a0_s_vl2_rr2_cnd.wav
+sample=..\Samples\a0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a0_s_vl2_rr3_cnd.wav
+sample=..\Samples\a0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1084,16 +1084,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\a0_s_vl3_rr1_cnd.wav
+sample=..\Samples\a0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a0_s_vl3_rr2_cnd.wav
+sample=..\Samples\a0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a0_s_vl3_rr3_cnd.wav
+sample=..\Samples\a0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1109,16 +1109,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\a0_s_vl4_rr1_cnd.wav
+sample=..\Samples\a0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a0_s_vl4_rr2_cnd.wav
+sample=..\Samples\a0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a0_s_vl4_rr3_cnd.wav
+sample=..\Samples\a0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1133,16 +1133,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\a0_s_vl1_rr1_cnd.wav
+sample=..\Samples\a0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a0_s_vl1_rr2_cnd.wav
+sample=..\Samples\a0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a0_s_vl1_rr3_cnd.wav
+sample=..\Samples\a0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1158,16 +1158,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\a0_s_vl2_rr1_cnd.wav
+sample=..\Samples\a0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a0_s_vl2_rr2_cnd.wav
+sample=..\Samples\a0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a0_s_vl2_rr3_cnd.wav
+sample=..\Samples\a0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1183,16 +1183,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\a0_s_vl3_rr1_cnd.wav
+sample=..\Samples\a0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a0_s_vl3_rr2_cnd.wav
+sample=..\Samples\a0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a0_s_vl3_rr3_cnd.wav
+sample=..\Samples\a0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1206,16 +1206,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\a0_s_vl4_rr1_cnd.wav
+sample=..\Samples\a0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a0_s_vl4_rr2_cnd.wav
+sample=..\Samples\a0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a0_s_vl4_rr3_cnd.wav
+sample=..\Samples\a0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1232,16 +1232,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\bb0_s_vl1_rr1_cnd.wav
+sample=..\Samples\bb0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb0_s_vl1_rr2_cnd.wav
+sample=..\Samples\bb0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb0_s_vl1_rr3_cnd.wav
+sample=..\Samples\bb0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1259,16 +1259,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\bb0_s_vl2_rr1_cnd.wav
+sample=..\Samples\bb0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb0_s_vl2_rr2_cnd.wav
+sample=..\Samples\bb0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb0_s_vl2_rr3_cnd.wav
+sample=..\Samples\bb0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1286,16 +1286,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\bb0_s_vl3_rr1_cnd.wav
+sample=..\Samples\bb0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb0_s_vl3_rr2_cnd.wav
+sample=..\Samples\bb0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb0_s_vl3_rr3_cnd.wav
+sample=..\Samples\bb0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1311,16 +1311,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\bb0_s_vl4_rr1_cnd.wav
+sample=..\Samples\bb0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb0_s_vl4_rr2_cnd.wav
+sample=..\Samples\bb0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb0_s_vl4_rr3_cnd.wav
+sample=..\Samples\bb0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1337,16 +1337,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\bb0_s_vl1_rr1_cnd.wav
+sample=..\Samples\bb0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb0_s_vl1_rr2_cnd.wav
+sample=..\Samples\bb0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb0_s_vl1_rr3_cnd.wav
+sample=..\Samples\bb0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1364,16 +1364,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\bb0_s_vl2_rr1_cnd.wav
+sample=..\Samples\bb0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb0_s_vl2_rr2_cnd.wav
+sample=..\Samples\bb0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb0_s_vl2_rr3_cnd.wav
+sample=..\Samples\bb0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1391,16 +1391,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\bb0_s_vl3_rr1_cnd.wav
+sample=..\Samples\bb0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb0_s_vl3_rr2_cnd.wav
+sample=..\Samples\bb0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb0_s_vl3_rr3_cnd.wav
+sample=..\Samples\bb0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1416,16 +1416,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\bb0_s_vl4_rr1_cnd.wav
+sample=..\Samples\bb0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb0_s_vl4_rr2_cnd.wav
+sample=..\Samples\bb0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb0_s_vl4_rr3_cnd.wav
+sample=..\Samples\bb0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1440,16 +1440,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\bb0_s_vl1_rr1_cnd.wav
+sample=..\Samples\bb0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb0_s_vl1_rr2_cnd.wav
+sample=..\Samples\bb0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb0_s_vl1_rr3_cnd.wav
+sample=..\Samples\bb0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1465,16 +1465,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\bb0_s_vl2_rr1_cnd.wav
+sample=..\Samples\bb0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb0_s_vl2_rr2_cnd.wav
+sample=..\Samples\bb0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb0_s_vl2_rr3_cnd.wav
+sample=..\Samples\bb0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1490,16 +1490,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\bb0_s_vl3_rr1_cnd.wav
+sample=..\Samples\bb0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb0_s_vl3_rr2_cnd.wav
+sample=..\Samples\bb0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb0_s_vl3_rr3_cnd.wav
+sample=..\Samples\bb0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1513,16 +1513,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\bb0_s_vl4_rr1_cnd.wav
+sample=..\Samples\bb0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb0_s_vl4_rr2_cnd.wav
+sample=..\Samples\bb0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb0_s_vl4_rr3_cnd.wav
+sample=..\Samples\bb0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1539,16 +1539,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\b0_s_vl1_rr1_cnd.wav
+sample=..\Samples\b0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b0_s_vl1_rr2_cnd.wav
+sample=..\Samples\b0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b0_s_vl1_rr3_cnd.wav
+sample=..\Samples\b0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1566,16 +1566,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\b0_s_vl2_rr1_cnd.wav
+sample=..\Samples\b0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b0_s_vl2_rr2_cnd.wav
+sample=..\Samples\b0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b0_s_vl2_rr3_cnd.wav
+sample=..\Samples\b0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1593,16 +1593,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\b0_s_vl3_rr1_cnd.wav
+sample=..\Samples\b0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b0_s_vl3_rr2_cnd.wav
+sample=..\Samples\b0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b0_s_vl3_rr3_cnd.wav
+sample=..\Samples\b0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1618,16 +1618,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\b0_s_vl4_rr1_cnd.wav
+sample=..\Samples\b0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b0_s_vl4_rr2_cnd.wav
+sample=..\Samples\b0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b0_s_vl4_rr3_cnd.wav
+sample=..\Samples\b0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1644,16 +1644,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\b0_s_vl1_rr1_cnd.wav
+sample=..\Samples\b0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b0_s_vl1_rr2_cnd.wav
+sample=..\Samples\b0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b0_s_vl1_rr3_cnd.wav
+sample=..\Samples\b0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1671,16 +1671,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\b0_s_vl2_rr1_cnd.wav
+sample=..\Samples\b0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b0_s_vl2_rr2_cnd.wav
+sample=..\Samples\b0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b0_s_vl2_rr3_cnd.wav
+sample=..\Samples\b0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1698,16 +1698,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\b0_s_vl3_rr1_cnd.wav
+sample=..\Samples\b0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b0_s_vl3_rr2_cnd.wav
+sample=..\Samples\b0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b0_s_vl3_rr3_cnd.wav
+sample=..\Samples\b0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1723,16 +1723,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\b0_s_vl4_rr1_cnd.wav
+sample=..\Samples\b0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b0_s_vl4_rr2_cnd.wav
+sample=..\Samples\b0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b0_s_vl4_rr3_cnd.wav
+sample=..\Samples\b0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1747,16 +1747,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\b0_s_vl1_rr1_cnd.wav
+sample=..\Samples\b0_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b0_s_vl1_rr2_cnd.wav
+sample=..\Samples\b0_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b0_s_vl1_rr3_cnd.wav
+sample=..\Samples\b0_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1772,16 +1772,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\b0_s_vl2_rr1_cnd.wav
+sample=..\Samples\b0_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b0_s_vl2_rr2_cnd.wav
+sample=..\Samples\b0_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b0_s_vl2_rr3_cnd.wav
+sample=..\Samples\b0_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1797,16 +1797,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\b0_s_vl3_rr1_cnd.wav
+sample=..\Samples\b0_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b0_s_vl3_rr2_cnd.wav
+sample=..\Samples\b0_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b0_s_vl3_rr3_cnd.wav
+sample=..\Samples\b0_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1820,16 +1820,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\b0_s_vl4_rr1_cnd.wav
+sample=..\Samples\b0_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b0_s_vl4_rr2_cnd.wav
+sample=..\Samples\b0_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b0_s_vl4_rr3_cnd.wav
+sample=..\Samples\b0_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1846,16 +1846,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\c1_s_vl1_rr1_cnd.wav
+sample=..\Samples\c1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c1_s_vl1_rr2_cnd.wav
+sample=..\Samples\c1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c1_s_vl1_rr3_cnd.wav
+sample=..\Samples\c1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1873,16 +1873,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\c1_s_vl2_rr1_cnd.wav
+sample=..\Samples\c1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c1_s_vl2_rr2_cnd.wav
+sample=..\Samples\c1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c1_s_vl2_rr3_cnd.wav
+sample=..\Samples\c1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1900,16 +1900,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\c1_s_vl3_rr1_cnd.wav
+sample=..\Samples\c1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c1_s_vl3_rr2_cnd.wav
+sample=..\Samples\c1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c1_s_vl3_rr3_cnd.wav
+sample=..\Samples\c1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1925,16 +1925,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\c1_s_vl4_rr1_cnd.wav
+sample=..\Samples\c1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c1_s_vl4_rr2_cnd.wav
+sample=..\Samples\c1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c1_s_vl4_rr3_cnd.wav
+sample=..\Samples\c1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1951,16 +1951,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\c1_s_vl1_rr1_cnd.wav
+sample=..\Samples\c1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c1_s_vl1_rr2_cnd.wav
+sample=..\Samples\c1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c1_s_vl1_rr3_cnd.wav
+sample=..\Samples\c1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -1978,16 +1978,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\c1_s_vl2_rr1_cnd.wav
+sample=..\Samples\c1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c1_s_vl2_rr2_cnd.wav
+sample=..\Samples\c1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c1_s_vl2_rr3_cnd.wav
+sample=..\Samples\c1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2005,16 +2005,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\c1_s_vl3_rr1_cnd.wav
+sample=..\Samples\c1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c1_s_vl3_rr2_cnd.wav
+sample=..\Samples\c1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c1_s_vl3_rr3_cnd.wav
+sample=..\Samples\c1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2030,16 +2030,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\c1_s_vl4_rr1_cnd.wav
+sample=..\Samples\c1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c1_s_vl4_rr2_cnd.wav
+sample=..\Samples\c1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c1_s_vl4_rr3_cnd.wav
+sample=..\Samples\c1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2054,16 +2054,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\c1_s_vl1_rr1_cnd.wav
+sample=..\Samples\c1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c1_s_vl1_rr2_cnd.wav
+sample=..\Samples\c1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c1_s_vl1_rr3_cnd.wav
+sample=..\Samples\c1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2079,16 +2079,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\c1_s_vl2_rr1_cnd.wav
+sample=..\Samples\c1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c1_s_vl2_rr2_cnd.wav
+sample=..\Samples\c1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c1_s_vl2_rr3_cnd.wav
+sample=..\Samples\c1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2104,16 +2104,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\c1_s_vl3_rr1_cnd.wav
+sample=..\Samples\c1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c1_s_vl3_rr2_cnd.wav
+sample=..\Samples\c1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c1_s_vl3_rr3_cnd.wav
+sample=..\Samples\c1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2127,16 +2127,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\c1_s_vl4_rr1_cnd.wav
+sample=..\Samples\c1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c1_s_vl4_rr2_cnd.wav
+sample=..\Samples\c1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c1_s_vl4_rr3_cnd.wav
+sample=..\Samples\c1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2153,16 +2153,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\db1_s_vl1_rr1_cnd.wav
+sample=..\Samples\db1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db1_s_vl1_rr2_cnd.wav
+sample=..\Samples\db1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db1_s_vl1_rr3_cnd.wav
+sample=..\Samples\db1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2180,16 +2180,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\db1_s_vl2_rr1_cnd.wav
+sample=..\Samples\db1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db1_s_vl2_rr2_cnd.wav
+sample=..\Samples\db1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db1_s_vl2_rr3_cnd.wav
+sample=..\Samples\db1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2207,16 +2207,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\db1_s_vl3_rr1_cnd.wav
+sample=..\Samples\db1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db1_s_vl3_rr2_cnd.wav
+sample=..\Samples\db1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db1_s_vl3_rr3_cnd.wav
+sample=..\Samples\db1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2232,16 +2232,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\db1_s_vl4_rr1_cnd.wav
+sample=..\Samples\db1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db1_s_vl4_rr2_cnd.wav
+sample=..\Samples\db1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db1_s_vl4_rr3_cnd.wav
+sample=..\Samples\db1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2258,16 +2258,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\db1_s_vl1_rr1_cnd.wav
+sample=..\Samples\db1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db1_s_vl1_rr2_cnd.wav
+sample=..\Samples\db1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db1_s_vl1_rr3_cnd.wav
+sample=..\Samples\db1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2285,16 +2285,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\db1_s_vl2_rr1_cnd.wav
+sample=..\Samples\db1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db1_s_vl2_rr2_cnd.wav
+sample=..\Samples\db1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db1_s_vl2_rr3_cnd.wav
+sample=..\Samples\db1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2312,16 +2312,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\db1_s_vl3_rr1_cnd.wav
+sample=..\Samples\db1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db1_s_vl3_rr2_cnd.wav
+sample=..\Samples\db1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db1_s_vl3_rr3_cnd.wav
+sample=..\Samples\db1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2337,16 +2337,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\db1_s_vl4_rr1_cnd.wav
+sample=..\Samples\db1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db1_s_vl4_rr2_cnd.wav
+sample=..\Samples\db1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db1_s_vl4_rr3_cnd.wav
+sample=..\Samples\db1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2361,16 +2361,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\db1_s_vl1_rr1_cnd.wav
+sample=..\Samples\db1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db1_s_vl1_rr2_cnd.wav
+sample=..\Samples\db1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db1_s_vl1_rr3_cnd.wav
+sample=..\Samples\db1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2386,16 +2386,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\db1_s_vl2_rr1_cnd.wav
+sample=..\Samples\db1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db1_s_vl2_rr2_cnd.wav
+sample=..\Samples\db1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db1_s_vl2_rr3_cnd.wav
+sample=..\Samples\db1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2411,16 +2411,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\db1_s_vl3_rr1_cnd.wav
+sample=..\Samples\db1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db1_s_vl3_rr2_cnd.wav
+sample=..\Samples\db1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db1_s_vl3_rr3_cnd.wav
+sample=..\Samples\db1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2434,16 +2434,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\db1_s_vl4_rr1_cnd.wav
+sample=..\Samples\db1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db1_s_vl4_rr2_cnd.wav
+sample=..\Samples\db1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db1_s_vl4_rr3_cnd.wav
+sample=..\Samples\db1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2460,16 +2460,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\d1_s_vl1_rr1_cnd.wav
+sample=..\Samples\d1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d1_s_vl1_rr2_cnd.wav
+sample=..\Samples\d1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d1_s_vl1_rr3_cnd.wav
+sample=..\Samples\d1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2487,16 +2487,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\d1_s_vl2_rr1_cnd.wav
+sample=..\Samples\d1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d1_s_vl2_rr2_cnd.wav
+sample=..\Samples\d1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d1_s_vl2_rr3_cnd.wav
+sample=..\Samples\d1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2514,16 +2514,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\d1_s_vl3_rr1_cnd.wav
+sample=..\Samples\d1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d1_s_vl3_rr2_cnd.wav
+sample=..\Samples\d1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d1_s_vl3_rr3_cnd.wav
+sample=..\Samples\d1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2539,16 +2539,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\d1_s_vl4_rr1_cnd.wav
+sample=..\Samples\d1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d1_s_vl4_rr2_cnd.wav
+sample=..\Samples\d1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d1_s_vl4_rr3_cnd.wav
+sample=..\Samples\d1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2565,16 +2565,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\d1_s_vl1_rr1_cnd.wav
+sample=..\Samples\d1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d1_s_vl1_rr2_cnd.wav
+sample=..\Samples\d1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d1_s_vl1_rr3_cnd.wav
+sample=..\Samples\d1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2592,16 +2592,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\d1_s_vl2_rr1_cnd.wav
+sample=..\Samples\d1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d1_s_vl2_rr2_cnd.wav
+sample=..\Samples\d1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d1_s_vl2_rr3_cnd.wav
+sample=..\Samples\d1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2619,16 +2619,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\d1_s_vl3_rr1_cnd.wav
+sample=..\Samples\d1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d1_s_vl3_rr2_cnd.wav
+sample=..\Samples\d1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d1_s_vl3_rr3_cnd.wav
+sample=..\Samples\d1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2644,16 +2644,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\d1_s_vl4_rr1_cnd.wav
+sample=..\Samples\d1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d1_s_vl4_rr2_cnd.wav
+sample=..\Samples\d1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d1_s_vl4_rr3_cnd.wav
+sample=..\Samples\d1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2668,16 +2668,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\d1_s_vl1_rr1_cnd.wav
+sample=..\Samples\d1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d1_s_vl1_rr2_cnd.wav
+sample=..\Samples\d1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d1_s_vl1_rr3_cnd.wav
+sample=..\Samples\d1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2693,16 +2693,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\d1_s_vl2_rr1_cnd.wav
+sample=..\Samples\d1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d1_s_vl2_rr2_cnd.wav
+sample=..\Samples\d1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d1_s_vl2_rr3_cnd.wav
+sample=..\Samples\d1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2718,16 +2718,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\d1_s_vl3_rr1_cnd.wav
+sample=..\Samples\d1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d1_s_vl3_rr2_cnd.wav
+sample=..\Samples\d1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d1_s_vl3_rr3_cnd.wav
+sample=..\Samples\d1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2741,16 +2741,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\d1_s_vl4_rr1_cnd.wav
+sample=..\Samples\d1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d1_s_vl4_rr2_cnd.wav
+sample=..\Samples\d1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d1_s_vl4_rr3_cnd.wav
+sample=..\Samples\d1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2767,16 +2767,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\eb1_s_vl1_rr1_cnd.wav
+sample=..\Samples\eb1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb1_s_vl1_rr2_cnd.wav
+sample=..\Samples\eb1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb1_s_vl1_rr3_cnd.wav
+sample=..\Samples\eb1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2794,16 +2794,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\eb1_s_vl2_rr1_cnd.wav
+sample=..\Samples\eb1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb1_s_vl2_rr2_cnd.wav
+sample=..\Samples\eb1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb1_s_vl2_rr3_cnd.wav
+sample=..\Samples\eb1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2821,16 +2821,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\eb1_s_vl3_rr1_cnd.wav
+sample=..\Samples\eb1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb1_s_vl3_rr2_cnd.wav
+sample=..\Samples\eb1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb1_s_vl3_rr3_cnd.wav
+sample=..\Samples\eb1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2846,16 +2846,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\eb1_s_vl4_rr1_cnd.wav
+sample=..\Samples\eb1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb1_s_vl4_rr2_cnd.wav
+sample=..\Samples\eb1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb1_s_vl4_rr3_cnd.wav
+sample=..\Samples\eb1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2872,16 +2872,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\eb1_s_vl1_rr1_cnd.wav
+sample=..\Samples\eb1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb1_s_vl1_rr2_cnd.wav
+sample=..\Samples\eb1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb1_s_vl1_rr3_cnd.wav
+sample=..\Samples\eb1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2899,16 +2899,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\eb1_s_vl2_rr1_cnd.wav
+sample=..\Samples\eb1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb1_s_vl2_rr2_cnd.wav
+sample=..\Samples\eb1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb1_s_vl2_rr3_cnd.wav
+sample=..\Samples\eb1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2926,16 +2926,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\eb1_s_vl3_rr1_cnd.wav
+sample=..\Samples\eb1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb1_s_vl3_rr2_cnd.wav
+sample=..\Samples\eb1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb1_s_vl3_rr3_cnd.wav
+sample=..\Samples\eb1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2951,16 +2951,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\eb1_s_vl4_rr1_cnd.wav
+sample=..\Samples\eb1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb1_s_vl4_rr2_cnd.wav
+sample=..\Samples\eb1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb1_s_vl4_rr3_cnd.wav
+sample=..\Samples\eb1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -2975,16 +2975,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\eb1_s_vl1_rr1_cnd.wav
+sample=..\Samples\eb1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb1_s_vl1_rr2_cnd.wav
+sample=..\Samples\eb1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb1_s_vl1_rr3_cnd.wav
+sample=..\Samples\eb1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3000,16 +3000,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\eb1_s_vl2_rr1_cnd.wav
+sample=..\Samples\eb1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb1_s_vl2_rr2_cnd.wav
+sample=..\Samples\eb1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb1_s_vl2_rr3_cnd.wav
+sample=..\Samples\eb1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3025,16 +3025,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\eb1_s_vl3_rr1_cnd.wav
+sample=..\Samples\eb1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb1_s_vl3_rr2_cnd.wav
+sample=..\Samples\eb1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb1_s_vl3_rr3_cnd.wav
+sample=..\Samples\eb1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3048,16 +3048,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\eb1_s_vl4_rr1_cnd.wav
+sample=..\Samples\eb1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb1_s_vl4_rr2_cnd.wav
+sample=..\Samples\eb1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb1_s_vl4_rr3_cnd.wav
+sample=..\Samples\eb1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3074,16 +3074,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\e1_s_vl1_rr1_cnd.wav
+sample=..\Samples\e1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e1_s_vl1_rr2_cnd.wav
+sample=..\Samples\e1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e1_s_vl1_rr3_cnd.wav
+sample=..\Samples\e1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3101,16 +3101,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\e1_s_vl2_rr1_cnd.wav
+sample=..\Samples\e1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e1_s_vl2_rr2_cnd.wav
+sample=..\Samples\e1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e1_s_vl2_rr3_cnd.wav
+sample=..\Samples\e1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3128,16 +3128,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\e1_s_vl3_rr1_cnd.wav
+sample=..\Samples\e1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e1_s_vl3_rr2_cnd.wav
+sample=..\Samples\e1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e1_s_vl3_rr3_cnd.wav
+sample=..\Samples\e1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3153,16 +3153,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\e1_s_vl4_rr1_cnd.wav
+sample=..\Samples\e1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e1_s_vl4_rr2_cnd.wav
+sample=..\Samples\e1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e1_s_vl4_rr3_cnd.wav
+sample=..\Samples\e1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3179,16 +3179,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\e1_s_vl1_rr1_cnd.wav
+sample=..\Samples\e1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e1_s_vl1_rr2_cnd.wav
+sample=..\Samples\e1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e1_s_vl1_rr3_cnd.wav
+sample=..\Samples\e1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3206,16 +3206,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\e1_s_vl2_rr1_cnd.wav
+sample=..\Samples\e1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e1_s_vl2_rr2_cnd.wav
+sample=..\Samples\e1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e1_s_vl2_rr3_cnd.wav
+sample=..\Samples\e1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3233,16 +3233,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\e1_s_vl3_rr1_cnd.wav
+sample=..\Samples\e1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e1_s_vl3_rr2_cnd.wav
+sample=..\Samples\e1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e1_s_vl3_rr3_cnd.wav
+sample=..\Samples\e1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3258,16 +3258,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\e1_s_vl4_rr1_cnd.wav
+sample=..\Samples\e1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e1_s_vl4_rr2_cnd.wav
+sample=..\Samples\e1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e1_s_vl4_rr3_cnd.wav
+sample=..\Samples\e1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3282,16 +3282,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\e1_s_vl1_rr1_cnd.wav
+sample=..\Samples\e1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e1_s_vl1_rr2_cnd.wav
+sample=..\Samples\e1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e1_s_vl1_rr3_cnd.wav
+sample=..\Samples\e1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3307,16 +3307,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\e1_s_vl2_rr1_cnd.wav
+sample=..\Samples\e1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e1_s_vl2_rr2_cnd.wav
+sample=..\Samples\e1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e1_s_vl2_rr3_cnd.wav
+sample=..\Samples\e1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3332,16 +3332,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\e1_s_vl3_rr1_cnd.wav
+sample=..\Samples\e1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e1_s_vl3_rr2_cnd.wav
+sample=..\Samples\e1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e1_s_vl3_rr3_cnd.wav
+sample=..\Samples\e1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3355,16 +3355,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\e1_s_vl4_rr1_cnd.wav
+sample=..\Samples\e1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e1_s_vl4_rr2_cnd.wav
+sample=..\Samples\e1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e1_s_vl4_rr3_cnd.wav
+sample=..\Samples\e1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3381,16 +3381,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\f1_s_vl1_rr1_cnd.wav
+sample=..\Samples\f1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f1_s_vl1_rr2_cnd.wav
+sample=..\Samples\f1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f1_s_vl1_rr3_cnd.wav
+sample=..\Samples\f1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3408,16 +3408,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\f1_s_vl2_rr1_cnd.wav
+sample=..\Samples\f1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f1_s_vl2_rr2_cnd.wav
+sample=..\Samples\f1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f1_s_vl2_rr3_cnd.wav
+sample=..\Samples\f1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3435,16 +3435,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\f1_s_vl3_rr1_cnd.wav
+sample=..\Samples\f1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f1_s_vl3_rr2_cnd.wav
+sample=..\Samples\f1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f1_s_vl3_rr3_cnd.wav
+sample=..\Samples\f1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3460,16 +3460,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\f1_s_vl4_rr1_cnd.wav
+sample=..\Samples\f1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f1_s_vl4_rr2_cnd.wav
+sample=..\Samples\f1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f1_s_vl4_rr3_cnd.wav
+sample=..\Samples\f1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3486,16 +3486,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\f1_s_vl1_rr1_cnd.wav
+sample=..\Samples\f1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f1_s_vl1_rr2_cnd.wav
+sample=..\Samples\f1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f1_s_vl1_rr3_cnd.wav
+sample=..\Samples\f1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3513,16 +3513,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\f1_s_vl2_rr1_cnd.wav
+sample=..\Samples\f1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f1_s_vl2_rr2_cnd.wav
+sample=..\Samples\f1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f1_s_vl2_rr3_cnd.wav
+sample=..\Samples\f1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3540,16 +3540,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\f1_s_vl3_rr1_cnd.wav
+sample=..\Samples\f1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f1_s_vl3_rr2_cnd.wav
+sample=..\Samples\f1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f1_s_vl3_rr3_cnd.wav
+sample=..\Samples\f1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3565,16 +3565,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\f1_s_vl4_rr1_cnd.wav
+sample=..\Samples\f1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f1_s_vl4_rr2_cnd.wav
+sample=..\Samples\f1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f1_s_vl4_rr3_cnd.wav
+sample=..\Samples\f1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3589,16 +3589,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\f1_s_vl1_rr1_cnd.wav
+sample=..\Samples\f1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f1_s_vl1_rr2_cnd.wav
+sample=..\Samples\f1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f1_s_vl1_rr3_cnd.wav
+sample=..\Samples\f1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3614,16 +3614,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\f1_s_vl2_rr1_cnd.wav
+sample=..\Samples\f1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f1_s_vl2_rr2_cnd.wav
+sample=..\Samples\f1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f1_s_vl2_rr3_cnd.wav
+sample=..\Samples\f1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3639,16 +3639,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\f1_s_vl3_rr1_cnd.wav
+sample=..\Samples\f1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f1_s_vl3_rr2_cnd.wav
+sample=..\Samples\f1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f1_s_vl3_rr3_cnd.wav
+sample=..\Samples\f1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3662,16 +3662,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\f1_s_vl4_rr1_cnd.wav
+sample=..\Samples\f1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f1_s_vl4_rr2_cnd.wav
+sample=..\Samples\f1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f1_s_vl4_rr3_cnd.wav
+sample=..\Samples\f1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3688,16 +3688,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\gb1_s_vl1_rr1_cnd.wav
+sample=..\Samples\gb1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb1_s_vl1_rr2_cnd.wav
+sample=..\Samples\gb1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb1_s_vl1_rr3_cnd.wav
+sample=..\Samples\gb1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3715,16 +3715,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\gb1_s_vl2_rr1_cnd.wav
+sample=..\Samples\gb1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb1_s_vl2_rr2_cnd.wav
+sample=..\Samples\gb1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb1_s_vl2_rr3_cnd.wav
+sample=..\Samples\gb1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3742,16 +3742,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\gb1_s_vl3_rr1_cnd.wav
+sample=..\Samples\gb1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb1_s_vl3_rr2_cnd.wav
+sample=..\Samples\gb1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb1_s_vl3_rr3_cnd.wav
+sample=..\Samples\gb1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3767,16 +3767,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\gb1_s_vl4_rr1_cnd.wav
+sample=..\Samples\gb1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb1_s_vl4_rr2_cnd.wav
+sample=..\Samples\gb1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb1_s_vl4_rr3_cnd.wav
+sample=..\Samples\gb1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3793,16 +3793,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\gb1_s_vl1_rr1_cnd.wav
+sample=..\Samples\gb1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb1_s_vl1_rr2_cnd.wav
+sample=..\Samples\gb1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb1_s_vl1_rr3_cnd.wav
+sample=..\Samples\gb1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3820,16 +3820,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\gb1_s_vl2_rr1_cnd.wav
+sample=..\Samples\gb1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb1_s_vl2_rr2_cnd.wav
+sample=..\Samples\gb1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb1_s_vl2_rr3_cnd.wav
+sample=..\Samples\gb1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3847,16 +3847,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\gb1_s_vl3_rr1_cnd.wav
+sample=..\Samples\gb1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb1_s_vl3_rr2_cnd.wav
+sample=..\Samples\gb1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb1_s_vl3_rr3_cnd.wav
+sample=..\Samples\gb1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3872,16 +3872,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\gb1_s_vl4_rr1_cnd.wav
+sample=..\Samples\gb1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb1_s_vl4_rr2_cnd.wav
+sample=..\Samples\gb1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb1_s_vl4_rr3_cnd.wav
+sample=..\Samples\gb1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3896,16 +3896,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\gb1_s_vl1_rr1_cnd.wav
+sample=..\Samples\gb1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb1_s_vl1_rr2_cnd.wav
+sample=..\Samples\gb1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb1_s_vl1_rr3_cnd.wav
+sample=..\Samples\gb1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3921,16 +3921,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\gb1_s_vl2_rr1_cnd.wav
+sample=..\Samples\gb1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb1_s_vl2_rr2_cnd.wav
+sample=..\Samples\gb1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb1_s_vl2_rr3_cnd.wav
+sample=..\Samples\gb1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3946,16 +3946,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\gb1_s_vl3_rr1_cnd.wav
+sample=..\Samples\gb1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb1_s_vl3_rr2_cnd.wav
+sample=..\Samples\gb1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb1_s_vl3_rr3_cnd.wav
+sample=..\Samples\gb1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3969,16 +3969,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\gb1_s_vl4_rr1_cnd.wav
+sample=..\Samples\gb1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb1_s_vl4_rr2_cnd.wav
+sample=..\Samples\gb1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb1_s_vl4_rr3_cnd.wav
+sample=..\Samples\gb1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -3995,16 +3995,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\g1_s_vl1_rr1_cnd.wav
+sample=..\Samples\g1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g1_s_vl1_rr2_cnd.wav
+sample=..\Samples\g1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g1_s_vl1_rr3_cnd.wav
+sample=..\Samples\g1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4022,16 +4022,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\g1_s_vl2_rr1_cnd.wav
+sample=..\Samples\g1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g1_s_vl2_rr2_cnd.wav
+sample=..\Samples\g1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g1_s_vl2_rr3_cnd.wav
+sample=..\Samples\g1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4049,16 +4049,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\g1_s_vl3_rr1_cnd.wav
+sample=..\Samples\g1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g1_s_vl3_rr2_cnd.wav
+sample=..\Samples\g1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g1_s_vl3_rr3_cnd.wav
+sample=..\Samples\g1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4074,16 +4074,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\g1_s_vl4_rr1_cnd.wav
+sample=..\Samples\g1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g1_s_vl4_rr2_cnd.wav
+sample=..\Samples\g1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g1_s_vl4_rr3_cnd.wav
+sample=..\Samples\g1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4100,16 +4100,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\g1_s_vl1_rr1_cnd.wav
+sample=..\Samples\g1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g1_s_vl1_rr2_cnd.wav
+sample=..\Samples\g1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g1_s_vl1_rr3_cnd.wav
+sample=..\Samples\g1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4127,16 +4127,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\g1_s_vl2_rr1_cnd.wav
+sample=..\Samples\g1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g1_s_vl2_rr2_cnd.wav
+sample=..\Samples\g1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g1_s_vl2_rr3_cnd.wav
+sample=..\Samples\g1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4154,16 +4154,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\g1_s_vl3_rr1_cnd.wav
+sample=..\Samples\g1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g1_s_vl3_rr2_cnd.wav
+sample=..\Samples\g1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g1_s_vl3_rr3_cnd.wav
+sample=..\Samples\g1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4179,16 +4179,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\g1_s_vl4_rr1_cnd.wav
+sample=..\Samples\g1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g1_s_vl4_rr2_cnd.wav
+sample=..\Samples\g1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g1_s_vl4_rr3_cnd.wav
+sample=..\Samples\g1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4203,16 +4203,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\g1_s_vl1_rr1_cnd.wav
+sample=..\Samples\g1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g1_s_vl1_rr2_cnd.wav
+sample=..\Samples\g1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g1_s_vl1_rr3_cnd.wav
+sample=..\Samples\g1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4228,16 +4228,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\g1_s_vl2_rr1_cnd.wav
+sample=..\Samples\g1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g1_s_vl2_rr2_cnd.wav
+sample=..\Samples\g1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g1_s_vl2_rr3_cnd.wav
+sample=..\Samples\g1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4253,16 +4253,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\g1_s_vl3_rr1_cnd.wav
+sample=..\Samples\g1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g1_s_vl3_rr2_cnd.wav
+sample=..\Samples\g1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g1_s_vl3_rr3_cnd.wav
+sample=..\Samples\g1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4276,16 +4276,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\g1_s_vl4_rr1_cnd.wav
+sample=..\Samples\g1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g1_s_vl4_rr2_cnd.wav
+sample=..\Samples\g1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g1_s_vl4_rr3_cnd.wav
+sample=..\Samples\g1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4302,16 +4302,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\ab1_s_vl1_rr1_cnd.wav
+sample=..\Samples\ab1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab1_s_vl1_rr2_cnd.wav
+sample=..\Samples\ab1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab1_s_vl1_rr3_cnd.wav
+sample=..\Samples\ab1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4329,16 +4329,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\ab1_s_vl2_rr1_cnd.wav
+sample=..\Samples\ab1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab1_s_vl2_rr2_cnd.wav
+sample=..\Samples\ab1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab1_s_vl2_rr3_cnd.wav
+sample=..\Samples\ab1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4356,16 +4356,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\ab1_s_vl3_rr1_cnd.wav
+sample=..\Samples\ab1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab1_s_vl3_rr2_cnd.wav
+sample=..\Samples\ab1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab1_s_vl3_rr3_cnd.wav
+sample=..\Samples\ab1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4381,16 +4381,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\ab1_s_vl4_rr1_cnd.wav
+sample=..\Samples\ab1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab1_s_vl4_rr2_cnd.wav
+sample=..\Samples\ab1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab1_s_vl4_rr3_cnd.wav
+sample=..\Samples\ab1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4407,16 +4407,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\ab1_s_vl1_rr1_cnd.wav
+sample=..\Samples\ab1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab1_s_vl1_rr2_cnd.wav
+sample=..\Samples\ab1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab1_s_vl1_rr3_cnd.wav
+sample=..\Samples\ab1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4434,16 +4434,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\ab1_s_vl2_rr1_cnd.wav
+sample=..\Samples\ab1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab1_s_vl2_rr2_cnd.wav
+sample=..\Samples\ab1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab1_s_vl2_rr3_cnd.wav
+sample=..\Samples\ab1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4461,16 +4461,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\ab1_s_vl3_rr1_cnd.wav
+sample=..\Samples\ab1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab1_s_vl3_rr2_cnd.wav
+sample=..\Samples\ab1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab1_s_vl3_rr3_cnd.wav
+sample=..\Samples\ab1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4486,16 +4486,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\ab1_s_vl4_rr1_cnd.wav
+sample=..\Samples\ab1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab1_s_vl4_rr2_cnd.wav
+sample=..\Samples\ab1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab1_s_vl4_rr3_cnd.wav
+sample=..\Samples\ab1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4510,16 +4510,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\ab1_s_vl1_rr1_cnd.wav
+sample=..\Samples\ab1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab1_s_vl1_rr2_cnd.wav
+sample=..\Samples\ab1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab1_s_vl1_rr3_cnd.wav
+sample=..\Samples\ab1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4535,16 +4535,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\ab1_s_vl2_rr1_cnd.wav
+sample=..\Samples\ab1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab1_s_vl2_rr2_cnd.wav
+sample=..\Samples\ab1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab1_s_vl2_rr3_cnd.wav
+sample=..\Samples\ab1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4560,16 +4560,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\ab1_s_vl3_rr1_cnd.wav
+sample=..\Samples\ab1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab1_s_vl3_rr2_cnd.wav
+sample=..\Samples\ab1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab1_s_vl3_rr3_cnd.wav
+sample=..\Samples\ab1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4583,16 +4583,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\ab1_s_vl4_rr1_cnd.wav
+sample=..\Samples\ab1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\ab1_s_vl4_rr2_cnd.wav
+sample=..\Samples\ab1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\ab1_s_vl4_rr3_cnd.wav
+sample=..\Samples\ab1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4609,16 +4609,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\a1_s_vl1_rr1_cnd.wav
+sample=..\Samples\a1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a1_s_vl1_rr2_cnd.wav
+sample=..\Samples\a1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a1_s_vl1_rr3_cnd.wav
+sample=..\Samples\a1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4636,16 +4636,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\a1_s_vl2_rr1_cnd.wav
+sample=..\Samples\a1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a1_s_vl2_rr2_cnd.wav
+sample=..\Samples\a1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a1_s_vl2_rr3_cnd.wav
+sample=..\Samples\a1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4663,16 +4663,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\a1_s_vl3_rr1_cnd.wav
+sample=..\Samples\a1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a1_s_vl3_rr2_cnd.wav
+sample=..\Samples\a1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a1_s_vl3_rr3_cnd.wav
+sample=..\Samples\a1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4688,16 +4688,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\a1_s_vl4_rr1_cnd.wav
+sample=..\Samples\a1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a1_s_vl4_rr2_cnd.wav
+sample=..\Samples\a1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a1_s_vl4_rr3_cnd.wav
+sample=..\Samples\a1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4714,16 +4714,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\a1_s_vl1_rr1_cnd.wav
+sample=..\Samples\a1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a1_s_vl1_rr2_cnd.wav
+sample=..\Samples\a1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a1_s_vl1_rr3_cnd.wav
+sample=..\Samples\a1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4741,16 +4741,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\a1_s_vl2_rr1_cnd.wav
+sample=..\Samples\a1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a1_s_vl2_rr2_cnd.wav
+sample=..\Samples\a1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a1_s_vl2_rr3_cnd.wav
+sample=..\Samples\a1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4768,16 +4768,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\a1_s_vl3_rr1_cnd.wav
+sample=..\Samples\a1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a1_s_vl3_rr2_cnd.wav
+sample=..\Samples\a1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a1_s_vl3_rr3_cnd.wav
+sample=..\Samples\a1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4793,16 +4793,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\a1_s_vl4_rr1_cnd.wav
+sample=..\Samples\a1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a1_s_vl4_rr2_cnd.wav
+sample=..\Samples\a1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a1_s_vl4_rr3_cnd.wav
+sample=..\Samples\a1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4817,16 +4817,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\a1_s_vl1_rr1_cnd.wav
+sample=..\Samples\a1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a1_s_vl1_rr2_cnd.wav
+sample=..\Samples\a1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a1_s_vl1_rr3_cnd.wav
+sample=..\Samples\a1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4842,16 +4842,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\a1_s_vl2_rr1_cnd.wav
+sample=..\Samples\a1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a1_s_vl2_rr2_cnd.wav
+sample=..\Samples\a1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a1_s_vl2_rr3_cnd.wav
+sample=..\Samples\a1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4867,16 +4867,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\a1_s_vl3_rr1_cnd.wav
+sample=..\Samples\a1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a1_s_vl3_rr2_cnd.wav
+sample=..\Samples\a1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a1_s_vl3_rr3_cnd.wav
+sample=..\Samples\a1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4890,16 +4890,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\a1_s_vl4_rr1_cnd.wav
+sample=..\Samples\a1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\a1_s_vl4_rr2_cnd.wav
+sample=..\Samples\a1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\a1_s_vl4_rr3_cnd.wav
+sample=..\Samples\a1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4916,16 +4916,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\bb1_s_vl1_rr1_cnd.wav
+sample=..\Samples\bb1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb1_s_vl1_rr2_cnd.wav
+sample=..\Samples\bb1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb1_s_vl1_rr3_cnd.wav
+sample=..\Samples\bb1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4943,16 +4943,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\bb1_s_vl2_rr1_cnd.wav
+sample=..\Samples\bb1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb1_s_vl2_rr2_cnd.wav
+sample=..\Samples\bb1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb1_s_vl2_rr3_cnd.wav
+sample=..\Samples\bb1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4970,16 +4970,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\bb1_s_vl3_rr1_cnd.wav
+sample=..\Samples\bb1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb1_s_vl3_rr2_cnd.wav
+sample=..\Samples\bb1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb1_s_vl3_rr3_cnd.wav
+sample=..\Samples\bb1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -4995,16 +4995,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\bb1_s_vl4_rr1_cnd.wav
+sample=..\Samples\bb1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb1_s_vl4_rr2_cnd.wav
+sample=..\Samples\bb1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb1_s_vl4_rr3_cnd.wav
+sample=..\Samples\bb1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5021,16 +5021,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\bb1_s_vl1_rr1_cnd.wav
+sample=..\Samples\bb1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb1_s_vl1_rr2_cnd.wav
+sample=..\Samples\bb1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb1_s_vl1_rr3_cnd.wav
+sample=..\Samples\bb1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5048,16 +5048,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\bb1_s_vl2_rr1_cnd.wav
+sample=..\Samples\bb1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb1_s_vl2_rr2_cnd.wav
+sample=..\Samples\bb1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb1_s_vl2_rr3_cnd.wav
+sample=..\Samples\bb1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5075,16 +5075,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\bb1_s_vl3_rr1_cnd.wav
+sample=..\Samples\bb1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb1_s_vl3_rr2_cnd.wav
+sample=..\Samples\bb1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb1_s_vl3_rr3_cnd.wav
+sample=..\Samples\bb1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5100,16 +5100,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\bb1_s_vl4_rr1_cnd.wav
+sample=..\Samples\bb1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb1_s_vl4_rr2_cnd.wav
+sample=..\Samples\bb1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb1_s_vl4_rr3_cnd.wav
+sample=..\Samples\bb1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5124,16 +5124,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\bb1_s_vl1_rr1_cnd.wav
+sample=..\Samples\bb1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb1_s_vl1_rr2_cnd.wav
+sample=..\Samples\bb1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb1_s_vl1_rr3_cnd.wav
+sample=..\Samples\bb1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5149,16 +5149,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\bb1_s_vl2_rr1_cnd.wav
+sample=..\Samples\bb1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb1_s_vl2_rr2_cnd.wav
+sample=..\Samples\bb1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb1_s_vl2_rr3_cnd.wav
+sample=..\Samples\bb1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5174,16 +5174,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\bb1_s_vl3_rr1_cnd.wav
+sample=..\Samples\bb1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb1_s_vl3_rr2_cnd.wav
+sample=..\Samples\bb1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb1_s_vl3_rr3_cnd.wav
+sample=..\Samples\bb1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5197,16 +5197,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\bb1_s_vl4_rr1_cnd.wav
+sample=..\Samples\bb1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\bb1_s_vl4_rr2_cnd.wav
+sample=..\Samples\bb1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\bb1_s_vl4_rr3_cnd.wav
+sample=..\Samples\bb1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5223,16 +5223,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\b1_s_vl1_rr1_cnd.wav
+sample=..\Samples\b1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b1_s_vl1_rr2_cnd.wav
+sample=..\Samples\b1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b1_s_vl1_rr3_cnd.wav
+sample=..\Samples\b1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5250,16 +5250,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\b1_s_vl2_rr1_cnd.wav
+sample=..\Samples\b1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b1_s_vl2_rr2_cnd.wav
+sample=..\Samples\b1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b1_s_vl2_rr3_cnd.wav
+sample=..\Samples\b1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5277,16 +5277,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\b1_s_vl3_rr1_cnd.wav
+sample=..\Samples\b1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b1_s_vl3_rr2_cnd.wav
+sample=..\Samples\b1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b1_s_vl3_rr3_cnd.wav
+sample=..\Samples\b1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5302,16 +5302,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\b1_s_vl4_rr1_cnd.wav
+sample=..\Samples\b1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b1_s_vl4_rr2_cnd.wav
+sample=..\Samples\b1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b1_s_vl4_rr3_cnd.wav
+sample=..\Samples\b1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5328,16 +5328,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\b1_s_vl1_rr1_cnd.wav
+sample=..\Samples\b1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b1_s_vl1_rr2_cnd.wav
+sample=..\Samples\b1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b1_s_vl1_rr3_cnd.wav
+sample=..\Samples\b1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5355,16 +5355,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\b1_s_vl2_rr1_cnd.wav
+sample=..\Samples\b1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b1_s_vl2_rr2_cnd.wav
+sample=..\Samples\b1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b1_s_vl2_rr3_cnd.wav
+sample=..\Samples\b1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5382,16 +5382,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\b1_s_vl3_rr1_cnd.wav
+sample=..\Samples\b1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b1_s_vl3_rr2_cnd.wav
+sample=..\Samples\b1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b1_s_vl3_rr3_cnd.wav
+sample=..\Samples\b1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5407,16 +5407,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\b1_s_vl4_rr1_cnd.wav
+sample=..\Samples\b1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b1_s_vl4_rr2_cnd.wav
+sample=..\Samples\b1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b1_s_vl4_rr3_cnd.wav
+sample=..\Samples\b1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5431,16 +5431,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\b1_s_vl1_rr1_cnd.wav
+sample=..\Samples\b1_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b1_s_vl1_rr2_cnd.wav
+sample=..\Samples\b1_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b1_s_vl1_rr3_cnd.wav
+sample=..\Samples\b1_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5456,16 +5456,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\b1_s_vl2_rr1_cnd.wav
+sample=..\Samples\b1_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b1_s_vl2_rr2_cnd.wav
+sample=..\Samples\b1_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b1_s_vl2_rr3_cnd.wav
+sample=..\Samples\b1_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5481,16 +5481,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\b1_s_vl3_rr1_cnd.wav
+sample=..\Samples\b1_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b1_s_vl3_rr2_cnd.wav
+sample=..\Samples\b1_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b1_s_vl3_rr3_cnd.wav
+sample=..\Samples\b1_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5504,16 +5504,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\b1_s_vl4_rr1_cnd.wav
+sample=..\Samples\b1_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\b1_s_vl4_rr2_cnd.wav
+sample=..\Samples\b1_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\b1_s_vl4_rr3_cnd.wav
+sample=..\Samples\b1_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5530,16 +5530,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\c2_s_vl1_rr1_cnd.wav
+sample=..\Samples\c2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c2_s_vl1_rr2_cnd.wav
+sample=..\Samples\c2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c2_s_vl1_rr3_cnd.wav
+sample=..\Samples\c2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5557,16 +5557,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\c2_s_vl2_rr1_cnd.wav
+sample=..\Samples\c2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c2_s_vl2_rr2_cnd.wav
+sample=..\Samples\c2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c2_s_vl2_rr3_cnd.wav
+sample=..\Samples\c2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5584,16 +5584,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\c2_s_vl3_rr1_cnd.wav
+sample=..\Samples\c2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c2_s_vl3_rr2_cnd.wav
+sample=..\Samples\c2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c2_s_vl3_rr3_cnd.wav
+sample=..\Samples\c2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5609,16 +5609,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\c2_s_vl4_rr1_cnd.wav
+sample=..\Samples\c2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c2_s_vl4_rr2_cnd.wav
+sample=..\Samples\c2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c2_s_vl4_rr3_cnd.wav
+sample=..\Samples\c2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5635,16 +5635,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\c2_s_vl1_rr1_cnd.wav
+sample=..\Samples\c2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c2_s_vl1_rr2_cnd.wav
+sample=..\Samples\c2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c2_s_vl1_rr3_cnd.wav
+sample=..\Samples\c2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5662,16 +5662,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\c2_s_vl2_rr1_cnd.wav
+sample=..\Samples\c2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c2_s_vl2_rr2_cnd.wav
+sample=..\Samples\c2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c2_s_vl2_rr3_cnd.wav
+sample=..\Samples\c2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5689,16 +5689,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\c2_s_vl3_rr1_cnd.wav
+sample=..\Samples\c2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c2_s_vl3_rr2_cnd.wav
+sample=..\Samples\c2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c2_s_vl3_rr3_cnd.wav
+sample=..\Samples\c2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5714,16 +5714,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\c2_s_vl4_rr1_cnd.wav
+sample=..\Samples\c2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c2_s_vl4_rr2_cnd.wav
+sample=..\Samples\c2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c2_s_vl4_rr3_cnd.wav
+sample=..\Samples\c2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5738,16 +5738,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\c2_s_vl1_rr1_cnd.wav
+sample=..\Samples\c2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c2_s_vl1_rr2_cnd.wav
+sample=..\Samples\c2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c2_s_vl1_rr3_cnd.wav
+sample=..\Samples\c2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5763,16 +5763,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\c2_s_vl2_rr1_cnd.wav
+sample=..\Samples\c2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c2_s_vl2_rr2_cnd.wav
+sample=..\Samples\c2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c2_s_vl2_rr3_cnd.wav
+sample=..\Samples\c2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5788,16 +5788,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\c2_s_vl3_rr1_cnd.wav
+sample=..\Samples\c2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c2_s_vl3_rr2_cnd.wav
+sample=..\Samples\c2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c2_s_vl3_rr3_cnd.wav
+sample=..\Samples\c2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5811,16 +5811,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\c2_s_vl4_rr1_cnd.wav
+sample=..\Samples\c2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\c2_s_vl4_rr2_cnd.wav
+sample=..\Samples\c2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\c2_s_vl4_rr3_cnd.wav
+sample=..\Samples\c2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5837,16 +5837,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\db2_s_vl1_rr1_cnd.wav
+sample=..\Samples\db2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db2_s_vl1_rr2_cnd.wav
+sample=..\Samples\db2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db2_s_vl1_rr3_cnd.wav
+sample=..\Samples\db2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5864,16 +5864,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\db2_s_vl2_rr1_cnd.wav
+sample=..\Samples\db2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db2_s_vl2_rr2_cnd.wav
+sample=..\Samples\db2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db2_s_vl2_rr3_cnd.wav
+sample=..\Samples\db2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5891,16 +5891,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\db2_s_vl3_rr1_cnd.wav
+sample=..\Samples\db2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db2_s_vl3_rr2_cnd.wav
+sample=..\Samples\db2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db2_s_vl3_rr3_cnd.wav
+sample=..\Samples\db2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5916,16 +5916,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\db2_s_vl4_rr1_cnd.wav
+sample=..\Samples\db2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db2_s_vl4_rr2_cnd.wav
+sample=..\Samples\db2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db2_s_vl4_rr3_cnd.wav
+sample=..\Samples\db2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5942,16 +5942,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\db2_s_vl1_rr1_cnd.wav
+sample=..\Samples\db2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db2_s_vl1_rr2_cnd.wav
+sample=..\Samples\db2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db2_s_vl1_rr3_cnd.wav
+sample=..\Samples\db2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5969,16 +5969,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\db2_s_vl2_rr1_cnd.wav
+sample=..\Samples\db2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db2_s_vl2_rr2_cnd.wav
+sample=..\Samples\db2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db2_s_vl2_rr3_cnd.wav
+sample=..\Samples\db2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -5996,16 +5996,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\db2_s_vl3_rr1_cnd.wav
+sample=..\Samples\db2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db2_s_vl3_rr2_cnd.wav
+sample=..\Samples\db2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db2_s_vl3_rr3_cnd.wav
+sample=..\Samples\db2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6021,16 +6021,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\db2_s_vl4_rr1_cnd.wav
+sample=..\Samples\db2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db2_s_vl4_rr2_cnd.wav
+sample=..\Samples\db2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db2_s_vl4_rr3_cnd.wav
+sample=..\Samples\db2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6045,16 +6045,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\db2_s_vl1_rr1_cnd.wav
+sample=..\Samples\db2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db2_s_vl1_rr2_cnd.wav
+sample=..\Samples\db2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db2_s_vl1_rr3_cnd.wav
+sample=..\Samples\db2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6070,16 +6070,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\db2_s_vl2_rr1_cnd.wav
+sample=..\Samples\db2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db2_s_vl2_rr2_cnd.wav
+sample=..\Samples\db2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db2_s_vl2_rr3_cnd.wav
+sample=..\Samples\db2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6095,16 +6095,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\db2_s_vl3_rr1_cnd.wav
+sample=..\Samples\db2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db2_s_vl3_rr2_cnd.wav
+sample=..\Samples\db2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db2_s_vl3_rr3_cnd.wav
+sample=..\Samples\db2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6118,16 +6118,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\db2_s_vl4_rr1_cnd.wav
+sample=..\Samples\db2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\db2_s_vl4_rr2_cnd.wav
+sample=..\Samples\db2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\db2_s_vl4_rr3_cnd.wav
+sample=..\Samples\db2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6144,16 +6144,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\d2_s_vl1_rr1_cnd.wav
+sample=..\Samples\d2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d2_s_vl1_rr2_cnd.wav
+sample=..\Samples\d2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d2_s_vl1_rr3_cnd.wav
+sample=..\Samples\d2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6171,16 +6171,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\d2_s_vl2_rr1_cnd.wav
+sample=..\Samples\d2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d2_s_vl2_rr2_cnd.wav
+sample=..\Samples\d2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d2_s_vl2_rr3_cnd.wav
+sample=..\Samples\d2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6198,16 +6198,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\d2_s_vl3_rr1_cnd.wav
+sample=..\Samples\d2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d2_s_vl3_rr2_cnd.wav
+sample=..\Samples\d2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d2_s_vl3_rr3_cnd.wav
+sample=..\Samples\d2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6223,16 +6223,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\d2_s_vl4_rr1_cnd.wav
+sample=..\Samples\d2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d2_s_vl4_rr2_cnd.wav
+sample=..\Samples\d2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d2_s_vl4_rr3_cnd.wav
+sample=..\Samples\d2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6249,16 +6249,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\d2_s_vl1_rr1_cnd.wav
+sample=..\Samples\d2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d2_s_vl1_rr2_cnd.wav
+sample=..\Samples\d2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d2_s_vl1_rr3_cnd.wav
+sample=..\Samples\d2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6276,16 +6276,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\d2_s_vl2_rr1_cnd.wav
+sample=..\Samples\d2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d2_s_vl2_rr2_cnd.wav
+sample=..\Samples\d2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d2_s_vl2_rr3_cnd.wav
+sample=..\Samples\d2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6303,16 +6303,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\d2_s_vl3_rr1_cnd.wav
+sample=..\Samples\d2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d2_s_vl3_rr2_cnd.wav
+sample=..\Samples\d2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d2_s_vl3_rr3_cnd.wav
+sample=..\Samples\d2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6328,16 +6328,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\d2_s_vl4_rr1_cnd.wav
+sample=..\Samples\d2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d2_s_vl4_rr2_cnd.wav
+sample=..\Samples\d2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d2_s_vl4_rr3_cnd.wav
+sample=..\Samples\d2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6352,16 +6352,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\d2_s_vl1_rr1_cnd.wav
+sample=..\Samples\d2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d2_s_vl1_rr2_cnd.wav
+sample=..\Samples\d2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d2_s_vl1_rr3_cnd.wav
+sample=..\Samples\d2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6377,16 +6377,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\d2_s_vl2_rr1_cnd.wav
+sample=..\Samples\d2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d2_s_vl2_rr2_cnd.wav
+sample=..\Samples\d2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d2_s_vl2_rr3_cnd.wav
+sample=..\Samples\d2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6402,16 +6402,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\d2_s_vl3_rr1_cnd.wav
+sample=..\Samples\d2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d2_s_vl3_rr2_cnd.wav
+sample=..\Samples\d2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d2_s_vl3_rr3_cnd.wav
+sample=..\Samples\d2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6425,16 +6425,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\d2_s_vl4_rr1_cnd.wav
+sample=..\Samples\d2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\d2_s_vl4_rr2_cnd.wav
+sample=..\Samples\d2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\d2_s_vl4_rr3_cnd.wav
+sample=..\Samples\d2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6451,16 +6451,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\eb2_s_vl1_rr1_cnd.wav
+sample=..\Samples\eb2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb2_s_vl1_rr2_cnd.wav
+sample=..\Samples\eb2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb2_s_vl1_rr3_cnd.wav
+sample=..\Samples\eb2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6478,16 +6478,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\eb2_s_vl2_rr1_cnd.wav
+sample=..\Samples\eb2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb2_s_vl2_rr2_cnd.wav
+sample=..\Samples\eb2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb2_s_vl2_rr3_cnd.wav
+sample=..\Samples\eb2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6505,16 +6505,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\eb2_s_vl3_rr1_cnd.wav
+sample=..\Samples\eb2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb2_s_vl3_rr2_cnd.wav
+sample=..\Samples\eb2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb2_s_vl3_rr3_cnd.wav
+sample=..\Samples\eb2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6530,16 +6530,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\eb2_s_vl4_rr1_cnd.wav
+sample=..\Samples\eb2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb2_s_vl4_rr2_cnd.wav
+sample=..\Samples\eb2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb2_s_vl4_rr3_cnd.wav
+sample=..\Samples\eb2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6556,16 +6556,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\eb2_s_vl1_rr1_cnd.wav
+sample=..\Samples\eb2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb2_s_vl1_rr2_cnd.wav
+sample=..\Samples\eb2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb2_s_vl1_rr3_cnd.wav
+sample=..\Samples\eb2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6583,16 +6583,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\eb2_s_vl2_rr1_cnd.wav
+sample=..\Samples\eb2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb2_s_vl2_rr2_cnd.wav
+sample=..\Samples\eb2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb2_s_vl2_rr3_cnd.wav
+sample=..\Samples\eb2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6610,16 +6610,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\eb2_s_vl3_rr1_cnd.wav
+sample=..\Samples\eb2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb2_s_vl3_rr2_cnd.wav
+sample=..\Samples\eb2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb2_s_vl3_rr3_cnd.wav
+sample=..\Samples\eb2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6635,16 +6635,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\eb2_s_vl4_rr1_cnd.wav
+sample=..\Samples\eb2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb2_s_vl4_rr2_cnd.wav
+sample=..\Samples\eb2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb2_s_vl4_rr3_cnd.wav
+sample=..\Samples\eb2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6659,16 +6659,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\eb2_s_vl1_rr1_cnd.wav
+sample=..\Samples\eb2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb2_s_vl1_rr2_cnd.wav
+sample=..\Samples\eb2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb2_s_vl1_rr3_cnd.wav
+sample=..\Samples\eb2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6684,16 +6684,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\eb2_s_vl2_rr1_cnd.wav
+sample=..\Samples\eb2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb2_s_vl2_rr2_cnd.wav
+sample=..\Samples\eb2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb2_s_vl2_rr3_cnd.wav
+sample=..\Samples\eb2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6709,16 +6709,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\eb2_s_vl3_rr1_cnd.wav
+sample=..\Samples\eb2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb2_s_vl3_rr2_cnd.wav
+sample=..\Samples\eb2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb2_s_vl3_rr3_cnd.wav
+sample=..\Samples\eb2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6732,16 +6732,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\eb2_s_vl4_rr1_cnd.wav
+sample=..\Samples\eb2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\eb2_s_vl4_rr2_cnd.wav
+sample=..\Samples\eb2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\eb2_s_vl4_rr3_cnd.wav
+sample=..\Samples\eb2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6758,16 +6758,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\e2_s_vl1_rr1_cnd.wav
+sample=..\Samples\e2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e2_s_vl1_rr2_cnd.wav
+sample=..\Samples\e2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e2_s_vl1_rr3_cnd.wav
+sample=..\Samples\e2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6785,16 +6785,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\e2_s_vl2_rr1_cnd.wav
+sample=..\Samples\e2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e2_s_vl2_rr2_cnd.wav
+sample=..\Samples\e2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e2_s_vl2_rr3_cnd.wav
+sample=..\Samples\e2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6812,16 +6812,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\e2_s_vl3_rr1_cnd.wav
+sample=..\Samples\e2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e2_s_vl3_rr2_cnd.wav
+sample=..\Samples\e2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e2_s_vl3_rr3_cnd.wav
+sample=..\Samples\e2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6837,16 +6837,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\e2_s_vl4_rr1_cnd.wav
+sample=..\Samples\e2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e2_s_vl4_rr2_cnd.wav
+sample=..\Samples\e2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e2_s_vl4_rr3_cnd.wav
+sample=..\Samples\e2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6863,16 +6863,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\e2_s_vl1_rr1_cnd.wav
+sample=..\Samples\e2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e2_s_vl1_rr2_cnd.wav
+sample=..\Samples\e2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e2_s_vl1_rr3_cnd.wav
+sample=..\Samples\e2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6890,16 +6890,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\e2_s_vl2_rr1_cnd.wav
+sample=..\Samples\e2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e2_s_vl2_rr2_cnd.wav
+sample=..\Samples\e2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e2_s_vl2_rr3_cnd.wav
+sample=..\Samples\e2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6917,16 +6917,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\e2_s_vl3_rr1_cnd.wav
+sample=..\Samples\e2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e2_s_vl3_rr2_cnd.wav
+sample=..\Samples\e2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e2_s_vl3_rr3_cnd.wav
+sample=..\Samples\e2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6942,16 +6942,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\e2_s_vl4_rr1_cnd.wav
+sample=..\Samples\e2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e2_s_vl4_rr2_cnd.wav
+sample=..\Samples\e2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e2_s_vl4_rr3_cnd.wav
+sample=..\Samples\e2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6966,16 +6966,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\e2_s_vl1_rr1_cnd.wav
+sample=..\Samples\e2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e2_s_vl1_rr2_cnd.wav
+sample=..\Samples\e2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e2_s_vl1_rr3_cnd.wav
+sample=..\Samples\e2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -6991,16 +6991,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\e2_s_vl2_rr1_cnd.wav
+sample=..\Samples\e2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e2_s_vl2_rr2_cnd.wav
+sample=..\Samples\e2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e2_s_vl2_rr3_cnd.wav
+sample=..\Samples\e2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7016,16 +7016,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\e2_s_vl3_rr1_cnd.wav
+sample=..\Samples\e2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e2_s_vl3_rr2_cnd.wav
+sample=..\Samples\e2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e2_s_vl3_rr3_cnd.wav
+sample=..\Samples\e2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7039,16 +7039,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\e2_s_vl4_rr1_cnd.wav
+sample=..\Samples\e2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\e2_s_vl4_rr2_cnd.wav
+sample=..\Samples\e2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\e2_s_vl4_rr3_cnd.wav
+sample=..\Samples\e2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7065,16 +7065,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\f2_s_vl1_rr1_cnd.wav
+sample=..\Samples\f2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f2_s_vl1_rr2_cnd.wav
+sample=..\Samples\f2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f2_s_vl1_rr3_cnd.wav
+sample=..\Samples\f2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7092,16 +7092,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\f2_s_vl2_rr1_cnd.wav
+sample=..\Samples\f2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f2_s_vl2_rr2_cnd.wav
+sample=..\Samples\f2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f2_s_vl2_rr3_cnd.wav
+sample=..\Samples\f2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7119,16 +7119,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\f2_s_vl3_rr1_cnd.wav
+sample=..\Samples\f2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f2_s_vl3_rr2_cnd.wav
+sample=..\Samples\f2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f2_s_vl3_rr3_cnd.wav
+sample=..\Samples\f2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7144,16 +7144,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\f2_s_vl4_rr1_cnd.wav
+sample=..\Samples\f2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f2_s_vl4_rr2_cnd.wav
+sample=..\Samples\f2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f2_s_vl4_rr3_cnd.wav
+sample=..\Samples\f2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7170,16 +7170,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\f2_s_vl1_rr1_cnd.wav
+sample=..\Samples\f2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f2_s_vl1_rr2_cnd.wav
+sample=..\Samples\f2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f2_s_vl1_rr3_cnd.wav
+sample=..\Samples\f2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7197,16 +7197,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\f2_s_vl2_rr1_cnd.wav
+sample=..\Samples\f2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f2_s_vl2_rr2_cnd.wav
+sample=..\Samples\f2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f2_s_vl2_rr3_cnd.wav
+sample=..\Samples\f2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7224,16 +7224,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\f2_s_vl3_rr1_cnd.wav
+sample=..\Samples\f2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f2_s_vl3_rr2_cnd.wav
+sample=..\Samples\f2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f2_s_vl3_rr3_cnd.wav
+sample=..\Samples\f2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7249,16 +7249,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\f2_s_vl4_rr1_cnd.wav
+sample=..\Samples\f2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f2_s_vl4_rr2_cnd.wav
+sample=..\Samples\f2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f2_s_vl4_rr3_cnd.wav
+sample=..\Samples\f2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7273,16 +7273,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\f2_s_vl1_rr1_cnd.wav
+sample=..\Samples\f2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f2_s_vl1_rr2_cnd.wav
+sample=..\Samples\f2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f2_s_vl1_rr3_cnd.wav
+sample=..\Samples\f2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7298,16 +7298,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\f2_s_vl2_rr1_cnd.wav
+sample=..\Samples\f2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f2_s_vl2_rr2_cnd.wav
+sample=..\Samples\f2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f2_s_vl2_rr3_cnd.wav
+sample=..\Samples\f2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7323,16 +7323,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\f2_s_vl3_rr1_cnd.wav
+sample=..\Samples\f2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f2_s_vl3_rr2_cnd.wav
+sample=..\Samples\f2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f2_s_vl3_rr3_cnd.wav
+sample=..\Samples\f2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7346,16 +7346,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\f2_s_vl4_rr1_cnd.wav
+sample=..\Samples\f2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\f2_s_vl4_rr2_cnd.wav
+sample=..\Samples\f2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\f2_s_vl4_rr3_cnd.wav
+sample=..\Samples\f2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7372,16 +7372,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\gb2_s_vl1_rr1_cnd.wav
+sample=..\Samples\gb2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb2_s_vl1_rr2_cnd.wav
+sample=..\Samples\gb2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb2_s_vl1_rr3_cnd.wav
+sample=..\Samples\gb2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7399,16 +7399,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\gb2_s_vl2_rr1_cnd.wav
+sample=..\Samples\gb2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb2_s_vl2_rr2_cnd.wav
+sample=..\Samples\gb2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb2_s_vl2_rr3_cnd.wav
+sample=..\Samples\gb2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7426,16 +7426,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\gb2_s_vl3_rr1_cnd.wav
+sample=..\Samples\gb2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb2_s_vl3_rr2_cnd.wav
+sample=..\Samples\gb2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb2_s_vl3_rr3_cnd.wav
+sample=..\Samples\gb2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7451,16 +7451,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\gb2_s_vl4_rr1_cnd.wav
+sample=..\Samples\gb2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb2_s_vl4_rr2_cnd.wav
+sample=..\Samples\gb2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb2_s_vl4_rr3_cnd.wav
+sample=..\Samples\gb2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7477,16 +7477,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\gb2_s_vl1_rr1_cnd.wav
+sample=..\Samples\gb2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb2_s_vl1_rr2_cnd.wav
+sample=..\Samples\gb2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb2_s_vl1_rr3_cnd.wav
+sample=..\Samples\gb2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7504,16 +7504,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\gb2_s_vl2_rr1_cnd.wav
+sample=..\Samples\gb2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb2_s_vl2_rr2_cnd.wav
+sample=..\Samples\gb2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb2_s_vl2_rr3_cnd.wav
+sample=..\Samples\gb2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7531,16 +7531,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\gb2_s_vl3_rr1_cnd.wav
+sample=..\Samples\gb2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb2_s_vl3_rr2_cnd.wav
+sample=..\Samples\gb2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb2_s_vl3_rr3_cnd.wav
+sample=..\Samples\gb2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7556,16 +7556,16 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\gb2_s_vl4_rr1_cnd.wav
+sample=..\Samples\gb2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\gb2_s_vl4_rr2_cnd.wav
+sample=..\Samples\gb2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\gb2_s_vl4_rr3_cnd.wav
+sample=..\Samples\gb2_s_vl4_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7582,16 +7582,16 @@ sw_label=Staccato
 amp_velcurve_32=1
 
 <region>
-sample=..\Samples\g2_s_vl1_rr1_cnd.wav
+sample=..\Samples\g2_s_vl1_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g2_s_vl1_rr2_cnd.wav
+sample=..\Samples\g2_s_vl1_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g2_s_vl1_rr3_cnd.wav
+sample=..\Samples\g2_s_vl1_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7609,16 +7609,16 @@ sw_label=Staccato
 amp_velcurve_64=1
 
 <region>
-sample=..\Samples\g2_s_vl2_rr1_cnd.wav
+sample=..\Samples\g2_s_vl2_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g2_s_vl2_rr2_cnd.wav
+sample=..\Samples\g2_s_vl2_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g2_s_vl2_rr3_cnd.wav
+sample=..\Samples\g2_s_vl2_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7636,16 +7636,16 @@ sw_label=Staccato
 amp_velcurve_96=1
 
 <region>
-sample=..\Samples\g2_s_vl3_rr1_cnd.wav
+sample=..\Samples\g2_s_vl3_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g2_s_vl3_rr2_cnd.wav
+sample=..\Samples\g2_s_vl3_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g2_s_vl3_rr3_cnd.wav
+sample=..\Samples\g2_s_vl3_rr3_cnd.flac
 lorand=0.667
 
 //========================
@@ -7661,14 +7661,14 @@ amplitude_oncc72=100
 sw_label=Staccato
 
 <region>
-sample=..\Samples\g2_s_vl4_rr1_cnd.wav
+sample=..\Samples\g2_s_vl4_rr1_cnd.flac
 hirand=0.333
 
 <region>
-sample=..\Samples\g2_s_vl4_rr2_cnd.wav
+sample=..\Samples\g2_s_vl4_rr2_cnd.flac
 lorand=0.333
 hirand=0.667
 
 <region>
-sample=..\Samples\g2_s_vl4_rr3_cnd.wav
+sample=..\Samples\g2_s_vl4_rr3_cnd.flac
 lorand=0.667

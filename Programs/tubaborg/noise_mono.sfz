@@ -10,20 +10,20 @@ lfo03_volume_oncc118=4
 locc121=64
 
 <region>
-sample=..\Samples\breath_rr1_cnd.wav
+sample=..\Samples\breath_rr1_cnd.flac
 offset_random=34626
 group=1
 off_by=1
 
 <region>
-sample=..\Samples\breath_rr2_cnd.wav
+sample=..\Samples\breath_rr2_cnd.flac
 pan_oncc91=-100
 offset_random=24614
 group=2
 off_by=2
 
 <region>
-sample=..\Samples\breath_rr3_cnd.wav
+sample=..\Samples\breath_rr3_cnd.flac
 pan_oncc91=100
 offset_random=84572
 group=3
