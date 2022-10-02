@@ -16,189 +16,189 @@ locc86=1
 hicc121=63
 
 <region>
-sample=..\Samples\f0_sus_dyn.wav
+sample=..\Samples\f0_sus_dyn.flac
 lokey=24
 hikey=29
 offset_random=10725
 pitch_keycenter=29
 
 <region>
-sample=..\Samples\gb0_sus_dyn.wav
+sample=..\Samples\gb0_sus_dyn.flac
 lokey=30
 hikey=30
 offset_random=9073
 pitch_keycenter=30
 
 <region>
-sample=..\Samples\g0_sus_dyn.wav
+sample=..\Samples\g0_sus_dyn.flac
 lokey=31
 hikey=31
 offset_random=9127
 pitch_keycenter=31
 
 <region>
-sample=..\Samples\ab0_sus_dyn.wav
+sample=..\Samples\ab0_sus_dyn.flac
 lokey=32
 hikey=32
 offset_random=17527
 pitch_keycenter=32
 
 <region>
-sample=..\Samples\a0_sus_dyn.wav
+sample=..\Samples\a0_sus_dyn.flac
 lokey=33
 hikey=33
 offset_random=4287
 pitch_keycenter=33
 
 <region>
-sample=..\Samples\bb0_sus_dyn.wav
+sample=..\Samples\bb0_sus_dyn.flac
 lokey=34
 hikey=34
 offset_random=13157
 pitch_keycenter=34
 
 <region>
-sample=..\Samples\b0_sus_dyn.wav
+sample=..\Samples\b0_sus_dyn.flac
 lokey=35
 hikey=35
 offset_random=2657
 pitch_keycenter=35
 
 <region>
-sample=..\Samples\c1_sus_dyn.wav
+sample=..\Samples\c1_sus_dyn.flac
 lokey=36
 hikey=36
 offset_random=15291
 pitch_keycenter=36
 
 <region>
-sample=..\Samples\db1_sus_dyn.wav
+sample=..\Samples\db1_sus_dyn.flac
 lokey=37
 hikey=37
 offset_random=7095
 pitch_keycenter=37
 
 <region>
-sample=..\Samples\d1_sus_dyn.wav
+sample=..\Samples\d1_sus_dyn.flac
 lokey=38
 hikey=38
 offset_random=17811
 pitch_keycenter=38
 
 <region>
-sample=..\Samples\eb1_sus_dyn.wav
+sample=..\Samples\eb1_sus_dyn.flac
 lokey=39
 hikey=39
 offset_random=9265
 pitch_keycenter=39
 
 <region>
-sample=..\Samples\e1_sus_dyn.wav
+sample=..\Samples\e1_sus_dyn.flac
 lokey=40
 hikey=40
 offset_random=5569
 pitch_keycenter=40
 
 <region>
-sample=..\Samples\f1_sus_dyn.wav
+sample=..\Samples\f1_sus_dyn.flac
 lokey=41
 hikey=41
 offset_random=6951
 pitch_keycenter=41
 
 <region>
-sample=..\Samples\gb1_sus_dyn.wav
+sample=..\Samples\gb1_sus_dyn.flac
 lokey=42
 hikey=42
 offset_random=13149
 pitch_keycenter=42
 
 <region>
-sample=..\Samples\g1_sus_dyn.wav
+sample=..\Samples\g1_sus_dyn.flac
 lokey=43
 hikey=43
 offset_random=6491
 pitch_keycenter=43
 
 <region>
-sample=..\Samples\ab1_sus_dyn.wav
+sample=..\Samples\ab1_sus_dyn.flac
 lokey=44
 hikey=44
 offset_random=10935
 pitch_keycenter=44
 
 <region>
-sample=..\Samples\a1_sus_dyn.wav
+sample=..\Samples\a1_sus_dyn.flac
 lokey=45
 hikey=45
 offset_random=2707
 pitch_keycenter=45
 
 <region>
-sample=..\Samples\bb1_sus_dyn.wav
+sample=..\Samples\bb1_sus_dyn.flac
 lokey=46
 hikey=46
 offset_random=10927
 pitch_keycenter=46
 
 <region>
-sample=..\Samples\b1_sus_dyn.wav
+sample=..\Samples\b1_sus_dyn.flac
 lokey=47
 hikey=47
 offset_random=11487
 pitch_keycenter=47
 
 <region>
-sample=..\Samples\c2_sus_dyn.wav
+sample=..\Samples\c2_sus_dyn.flac
 lokey=48
 hikey=48
 offset_random=15085
 pitch_keycenter=48
 
 <region>
-sample=..\Samples\db2_sus_dyn.wav
+sample=..\Samples\db2_sus_dyn.flac
 lokey=49
 hikey=49
 offset_random=10865
 pitch_keycenter=49
 
 <region>
-sample=..\Samples\d2_sus_dyn.wav
+sample=..\Samples\d2_sus_dyn.flac
 lokey=50
 hikey=50
 offset_random=12907
 pitch_keycenter=50
 
 <region>
-sample=..\Samples\eb2_sus_dyn.wav
+sample=..\Samples\eb2_sus_dyn.flac
 lokey=51
 hikey=51
 offset_random=17129
 pitch_keycenter=51
 
 <region>
-sample=..\Samples\e2_sus_dyn.wav
+sample=..\Samples\e2_sus_dyn.flac
 lokey=52
 hikey=52
 offset_random=8643
 pitch_keycenter=52
 
 <region>
-sample=..\Samples\f2_sus_dyn.wav
+sample=..\Samples\f2_sus_dyn.flac
 lokey=53
 hikey=53
 offset_random=10849
 pitch_keycenter=53
 
 <region>
-sample=..\Samples\gb2_sus_dyn.wav
+sample=..\Samples\gb2_sus_dyn.flac
 lokey=54
 hikey=54
 offset_random=8865
 pitch_keycenter=54
 
 <region>
-sample=..\Samples\g2_sus_dyn.wav
+sample=..\Samples\g2_sus_dyn.flac
 lokey=55
 hikey=60
 offset_random=15083
